@@ -2,6 +2,7 @@
 👨💻 + ☕ = happiness
 "Coding Is Passion"
  Tech Enthusiast
+Learn in progress!
 
 💼 LinkedIn: https://www.linkedin.com/in/hossain-chisty
 <img src="https://github.com/hossainchisty/hossainchisty/blob/main/4paradox-animation.gif">

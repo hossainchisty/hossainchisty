@@ -1,7 +1,8 @@
 ### Hi there, I'm Hossain Chisty 👋
 👨💻 + ☕ = happiness
 "Coding Is Passion"
- Tech Enthusiast
+Passionate about programming
+Tech Enthusiast
 Learning in progress
 
 💼 LinkedIn: https://www.linkedin.com/in/hossain-chisty

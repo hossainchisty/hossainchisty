@@ -2,7 +2,6 @@
 👨💻 + ☕ = happiness
 "Coding Is Passion"
 Passionate about programming,
-"Tech Enthusiast"
 "Learning in progress"
 
 💼 LinkedIn: https://www.linkedin.com/in/hossain-chisty

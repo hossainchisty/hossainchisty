@@ -10,7 +10,9 @@ Passionate about programming,
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=hossainchisty&layout=compact" />
 </a>
-<img src="https://github.com/hossainchisty/hossainchisty/blob/main/4paradox-animation.gif">
+<a href="https://github.com/hossainchisty">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=hossainchisty&show_icons=truet&include_all_commits=True&hide=contribs" alt="Anurag's github stats" />
+</a>
 
 
 

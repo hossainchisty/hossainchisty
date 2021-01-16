@@ -1,4 +1,4 @@
-### Hi there, I'm Hossain Chisty 👋
+### Hi there, I'm Hossain Chisty 👋🏻
 
 
 <p align="left">
@@ -8,9 +8,7 @@
 </p>
 
 
-
-
-
+## Connect with Me 🤝🏻
  <a href="https://www.linkedin.com/in/hossainchisty/">
     <img align="left" alt="Hossain Chisty | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>

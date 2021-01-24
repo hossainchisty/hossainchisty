@@ -17,6 +17,10 @@
     <img align="left" alt="Hossain Chisty | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   
-  <a href="mailto:">
+
+  <!-- 
+<a href="mailto:">
     <img align="left" alt="Hossain Chisty | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>&nbsp; &nbsp;
+-->
+  

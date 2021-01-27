@@ -1,6 +1,6 @@
 ### Hi there, I'm Hossain Chisty 👋🏻
 
-🌱 I’m currently learning Django and Django REST
+🎯 I’m currently learning Django and Django REST
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=tokyonight&line_height=35" />

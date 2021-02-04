@@ -1,7 +1,7 @@
 <h3 align="center"> 👋🏻Hi, I'm Hossain Chisty</h3>
 
-<p align="center">
-<h4>Connect with Me 🤝🏻 </h4>
+
+## Connect with Me 🤝🏻 
 
  <a href="https://www.linkedin.com/in/hossainchisty/">
     <img align="left" alt="Hossain Chisty | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -10,7 +10,6 @@
    <a href="https://twitter.com/hossainchisty11">
     <img align="left" alt="Hossain Chisty | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
-<p/>
 
 
 <p align="left">

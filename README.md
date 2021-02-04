@@ -1,8 +1,8 @@
 <h3 align="center"> 👋🏻Hi, I'm Hossain Chisty</h3>
 
-
-## Connect with Me 🤝🏻
 <p align="center">
+## Connect with Me 🤝🏻
+
  <a href="https://www.linkedin.com/in/hossainchisty/">
     <img align="left" alt="Hossain Chisty | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -11,8 +11,7 @@
     <img align="left" alt="Hossain Chisty | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
 <p/>
-  
-🎯 I’m currently learning Django and Django REST
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=tokyonight&line_height=35" />
@@ -22,7 +21,8 @@
 
 
 
-
+  
+🎯 I’m currently learning Django and Django REST
   <!-- 
 <a href="mailto:">
     <img align="left" alt="Hossain Chisty | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />

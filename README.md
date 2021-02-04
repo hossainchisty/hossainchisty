@@ -1,7 +1,7 @@
 <h3 align="center"> 👋🏻Hi, I'm Hossain Chisty</h3>
 
 <p align="center">
-## Connect with Me 🤝🏻
+<h4>Connect with Me 🤝🏻 </h4>
 
  <a href="https://www.linkedin.com/in/hossainchisty/">
     <img align="left" alt="Hossain Chisty | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />

@@ -21,7 +21,7 @@
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />]()
 
-[<img align="left" alt="Flask" width="26" str="https://cdn.worldvectorlogo.com/logos/flask.svg" />]()
+[<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" />]()
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()

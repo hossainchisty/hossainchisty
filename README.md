@@ -27,7 +27,7 @@
 [<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
 [<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />]()
 [<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
+
 
 
 

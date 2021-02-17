@@ -37,7 +37,7 @@
 [<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />]()
 [<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />]()
 
-[<img align="left" alt="Manjaro" width="26px" src="https://brandeps.com/logo-download/M/Manjaro-logo-vector-01.svg" />]()
+[<img align="left" alt="Manjaro" width="30px" src="https://brandeps.com/logo-download/M/Manjaro-logo-vector-01.svg" />]()
 
 <br>
 

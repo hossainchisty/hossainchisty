@@ -9,10 +9,9 @@
   <img width="34.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainchisty&count_private=true&theme=radical&line_height=40">
 </p>
 
-
-📫 How to reach me: You can find me on [Instagram](https://www.instagram.com/hossain.chisty/). I'm always there
-  
-🎯 I’m currently learning Django and Django REST
+- 🌱 My tech stack is Python/Django + ReactJS + PostgreSQL.
+- 📫 How to reach me: You can find me on [Instagram](https://www.instagram.com/hossain.chisty/). I'm always there
+- 🎯 I’m currently learning Django and Django REST
 
 
 

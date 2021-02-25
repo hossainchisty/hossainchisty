@@ -4,9 +4,10 @@
 
 
 <p align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=radical&line_height=35" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=radical&line_height=35" />
   
-  <img width="34.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainchisty&count_private=true&theme=radical&line_height=40">
+  <!-- <img width="34.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainchisty&count_private=true&theme=radical&line_height=40"> -->
+  
 </p>
 
 - 🌱 My tech stack is Python/Django + ReactJS + PostgreSQL.

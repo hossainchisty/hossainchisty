@@ -51,8 +51,7 @@
     <img align="left" alt="Hossain Chisty | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   
-  <br>
-##### Thanks A lot for coming to my profile.
+
   <!-- 
 <a href="mailto:">
     <img align="left" alt="Hossain Chisty | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />

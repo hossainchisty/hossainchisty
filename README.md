@@ -9,6 +9,10 @@
   <!-- <img width="34.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainchisty&count_private=true&theme=radical&line_height=40"> -->
   
 </p>
+<!-- retro visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/hossainchisty/count.svg" />
+</p>
 
 - 🌱 My tech stack is Python/Django + PostgreSQL.
 - 📫 How to reach me: You can find me on [Instagram](https://www.instagram.com/hossain.chisty/). I'm always there

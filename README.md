@@ -1,8 +1,8 @@
 #### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there, This is Hossain Chisty
 
-<hr>
-<h3>Glad to see you here!</h3>
 
+<h3>Glad to see you here!</h3>
+<hr>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=radical&line_height=25"/>

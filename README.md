@@ -48,15 +48,17 @@
 
 <br>
 
-## Connect with Me 🤝🏻 
+<!-- Connect with me -->
+<h3 align="left">Connect with me:🤝🏻</h3>
+<p align="left">
 
- <a href="https://www.linkedin.com/in/hossainchisty/">
-    <img align="left" alt="Hossain Chisty | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  
-   <a href="https://twitter.com/hossainchisty11">
-    <img align="left" alt="Hossain Chisty | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
+<a href="https://twitter.com/hossainchisty11" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/hossainchisty/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.facebook.com/hossain.chisty11" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/facebook.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.instagram.com/hossain.chisty/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
+
+</p>
+
   
 
   <!-- 

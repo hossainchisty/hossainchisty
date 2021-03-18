@@ -16,11 +16,7 @@
   <img src="https://profile-counter.glitch.me/hossainchisty/count.svg" />
 </p>
 
-
-
-
-
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />]()
@@ -35,17 +31,13 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 
 <!-- [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />]() -->
-
-
 <!-- [<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]() -->
 [<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />]()
 [<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />]()
 [<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />]()
-
 <!-- [<img align="left" alt="Manjaro" width="28px" src="https://brandeps.com/logo-download/M/Manjaro-logo-vector-01.svg" />]() -->
-
 <br>
 
 <!-- Connect with me -->
@@ -58,13 +50,3 @@
 <a href="https://www.instagram.com/hossain.chisty/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 
 </p>
-
-  
-
-  <!-- 
-<a href="mailto:">
-    <img align="left" alt="Hossain Chisty | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>&nbsp; &nbsp;
--->
- 
-

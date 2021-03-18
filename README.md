@@ -16,7 +16,7 @@
   <img src="https://profile-counter.glitch.me/hossainchisty/count.svg" />
 </p>
 
-### 🔧 Technologies & Tools
+## 🔧Technologies & Tools
 
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />]()

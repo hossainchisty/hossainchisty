@@ -1,6 +1,8 @@
 #### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there, This is Hossain Chisty
 
-
+- 🌱 My tech stack is Python/Django + PostgreSQL.
+- 📫 How to reach me: You can find me on [Instagram](https://www.instagram.com/hossain.chisty/). I'm always there
+- 🎯 I’m currently learning Django and Django REST
 
 
 <p align="left">
@@ -14,9 +16,7 @@
   <img src="https://profile-counter.glitch.me/hossainchisty/count.svg" />
 </p>
 
-- 🌱 My tech stack is Python/Django + PostgreSQL.
-- 📫 How to reach me: You can find me on [Instagram](https://www.instagram.com/hossain.chisty/). I'm always there
-- 🎯 I’m currently learning Django and Django REST
+
 
 
 

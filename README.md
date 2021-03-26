@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on Django Projects.
 - 🌱 My tech stack is Python/Django + PostgreSQL.
 - 👯 I’m looking to collaborate on other django developers.
-- 📫 How to reach me: You can find me on [Instagram](https://www.instagram.com/hossain.chisty/). I'm always there
-- 🎯 I’m currently learning Django and Django REST
+- 🎯 I’m currently learning Django and Django REST.
 
 
 <p align="left">

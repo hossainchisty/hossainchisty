@@ -1,7 +1,7 @@
 #### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there, This is Hossain Chisty
 
 - 🔭 I’m currently working on Django Projects.
-- 🌱 My tech stack is Python/Django + PostgreSQL.
+- 🌱 My tech stack is Python/Django + PostgreSQL JS Newbie.
 - 👯 I’m looking to collaborate on other django developers.
 - 🎯 I’m currently learning Django and Django REST.
 

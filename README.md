@@ -5,10 +5,10 @@
 - 👯 I’m looking to collaborate on other django developers.
 - 🎯 I’m currently learning Django and Django REST.
 
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=midnight-purple&line_height=25&hide=stars"> 
 </p>
+
 <!-- retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/hossainchisty/count.svg" />

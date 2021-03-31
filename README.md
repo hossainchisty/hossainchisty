@@ -8,6 +8,11 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=midnight-purple&line_height=25&hide=stars"> 
 </p>
+<!--
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainchisty&layout=compact&theme=radical"/>
+</a> -->
+
 
 <!-- retro visitor counter -->
 <p align="center"> 

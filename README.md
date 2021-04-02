@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Django Projects.
 - 🌱 My tech stack is Python/Django + PostgreSQL + JS Newbie.
+- 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms
 - 👯 I’m looking to collaborate on other django developers.
 - 🎯 I’m currently learning Django and Django REST.
 

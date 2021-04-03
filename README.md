@@ -47,7 +47,7 @@
 <br>
 
 <!-- Connect with me -->
-<h3 align="left">Connect with me:🤝🏻</h3>
+<h3 align="left">Let's Connect!🤝🏻</h3>
 <p align="left">
 
 <a href="https://twitter.com/hossainchisty11" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>

@@ -4,7 +4,7 @@
 - 🌱 My tech stack is Python/Django/DRF/PostgreSQL + JS Newbie.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 👯 I’m looking to collaborate on other Django Developers.
-- 🎯 I’m currently learning Django and Django REST.
+- 🎯 I’m currently learning DRF, Javascript, React.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=midnight-purple&line_height=25&hide=stars"> 

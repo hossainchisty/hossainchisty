@@ -24,6 +24,8 @@
 
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />]()
+
+[<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="98px" alt="FastAPI">]()
 [<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
 
 <!--[<img align="left" alt="flask" width="26px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" />]() -->
@@ -31,7 +33,8 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="tailwindcss" width="27px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" />]()
-[<img align="left" alt="bulmacss" width="19px" src="https://iconape.com/wp-content/png_logo_vector/bulma-logo.png" />]()
+
+<!-- [<img align="left" alt="bulmacss" width="19px" src="https://iconape.com/wp-content/png_logo_vector/bulma-logo.png" />]() -->
 [<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />]()
 
 

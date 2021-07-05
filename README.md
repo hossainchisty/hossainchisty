@@ -4,7 +4,7 @@
 - 🌱 My tech stack is Python/Django/DRF/PostgreSQL + JS Newbie.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 👯 I’m looking to collaborate on other Django Developers.
-- 🎯 I’m currently learning DRF, Javascript, React.
+- 🎯 I’m currently learning FastAPI, Javascript, React.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=midnight-purple&line_height=25&hide=stars"> 
@@ -25,7 +25,7 @@
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />]()
 
-[<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="98px" alt="FastAPI">]()
+[<img align="left" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="90px" alt="FastAPI">]()
 [<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
 
 <!--[<img align="left" alt="flask" width="26px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" />]() -->

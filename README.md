@@ -1,5 +1,4 @@
-#### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi there, This is Hossain Chisty
-
+### Hey! I'm [@hossainchisty](https://www.instagram.com/hossain.chisty/) (Hossain Chisty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
 - 🔭 I’m currently working on Django Projects.
 - 🌱 My tech stack is Python/Django/DRF/PostgreSQL + JS Newbie.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.

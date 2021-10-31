@@ -1,6 +1,6 @@
 ### Hey! I'm [@hossainchisty](https://www.instagram.com/hossain.chisty/) (Hossain Chisty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
 - 🔭 I’m currently working on Django Projects.
-- 🌱 My tech stack is Python, Django, DRF, GraphQL, PostgreSQL, Docker, Nginx, CircleCI, Jenkins.
+- 🌱 My tech stack is Python, Django, DRF, GraphQL, PostgreSQL, Docker, Nginx, CircleCI.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🤔 Exploring: Golang.
 - 👯 I’m looking to collaborate on other Django Developers.

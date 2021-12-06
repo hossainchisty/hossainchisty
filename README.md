@@ -1,5 +1,5 @@
 ### Hey! I'm [@hossainchisty](https://www.linkedin.com/in/hossainchisty/) (Hossain Chisty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
-- 🔭 I’m currently working on django projects looking for exciting job opportunity to learn more.
+- 🔭 I’m currently working on backend projects looking for exciting job opportunity to learn more.
 - 🛠️ My tech stack is Python, Django, Django Rest Framework, GraphQL, PostgreSQL, Docker, Nginx, Github Actions.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png"/>
@@ -26,6 +26,8 @@
 [<img align="left" alt="git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />]()
 <br>
 <!-- Technologies & Tools end -->
+<br>
+<br>
 
 ### My Projects
 

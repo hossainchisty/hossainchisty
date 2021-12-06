@@ -49,17 +49,17 @@
     </tr>
     <tr>
       <td><a href="https://github.com/hossainchisty/Income-Expense-Management" target="_blank">Income & Expense Management</a></td>
-      <td>Income & Expense Management System is an application that allows you to control the home budget for users who want to save money. you can control your finances,you Will know how much you spend.</td>
+      <td>Income & Expense Management System is an application that allows you to control your finances, you Will know how much you spend.</td>
     </tr>
        <tr>
       <td><a href="https://github.com/hossainchisty/covid19-dashboard" target="_blank">Coronavirus Dashboard</a></td>
-      <td>Coronavirus disease situation dashboard presents official daily counts of COVID-19 cases and deaths worldwide</td>
+      <td>Coronavirus disease situation dashboard presents daily counts of COVID-19 cases and deaths worldwide & Bangladesh</td>
     </tr>
      </tr>
        <tr>
       <td><a href="http://abbaclan.herokuapp.com" target="_blank">Abba Clan</a></td>
       <td> Project : Abba Clan - http://abbaclan.herokuapp.com  <br> Role : Backend Developer <br>
-           Description : Short Stories With Your Loved Ones Share Software Solution <br>
+           Description : Share Short Stories With Your Loved Ones<br>
            Technology : Python, Django, Django Rest Framework.
       </td>
     </tr>

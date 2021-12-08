@@ -11,20 +11,13 @@
 <!-- Technologies & Tools start -->
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 [<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />]()
-
 [<img align="left" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="30px" alt="FastAPI">]()
 [<img align="left" alt="bia-graphql" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />]()
 [<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />]() 
 [<img align="left" alt="Docker" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />]()
-[<img align="left" alt="nginx"  width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />]()
-[<img align="left" alt="cricleci" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />]()
-[<img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />]() 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />]()
-<br>
+<!-- [<img align="left" alt="nginx"  width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />]()-->
 <!-- Technologies & Tools end -->
 <br>
 <br>
@@ -60,9 +53,10 @@
      </tr>
        <tr>
       <td><a href="http://abbaclan.herokuapp.com" target="_blank">Abba Clan</a></td>
-      <td> Project : Abba Clan - http://abbaclan.herokuapp.com  <br> Role : Backend Developer <br>
-           Description : Share Short Stories With Your Loved Ones<br>
-           Technology : Python, Django, Django Rest Framework.
+      <td> Project : Abba Clan - http://abbaclan.herokuapp.com 
+          <br> Role : Backend Developer 
+          <br> Description : Write, Share and Read lots of Stories With Your Loved Ones
+          <br> Technology : Python, Django, Django Rest Framework.
       </td>
     </tr>
     

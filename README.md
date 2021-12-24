@@ -35,7 +35,10 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/hossainchisty/Multi-Vendor-eCommerce" target="_blank">Multi Vendor Ecommerce</a></td>
-      <td>Multi Vendor Ecommerce Application With RBAC Feature</td>
+      <td>Multi Vendor Ecommerce Application With RBAC Feature 
+        <br>Live Demo: https://multi-vendor-ecommerce-site.herokuapp.com
+        <br>Technology : Python, Django, Celery, Redis, Stripe, Cloudinary, Sentry-sdk, Docker. 
+     </td>
     </tr>
     </tr>
        <tr>
@@ -44,7 +47,9 @@
     </tr>
     <tr>
       <td><a href="https://github.com/hossainchisty/Income-Expense-Management" target="_blank">Income & Expense Management</a></td>
-      <td>Income & Expense Management System is an application that allows you to control your finances, you Will know how much you spend.</td>
+      <td>Income & Expense Management System is an application that allows you to control your finances, you Will know how much you spend.
+        <br> Technology : Python, Django, Cloudinary.
+      </td>
     </tr>
        <tr>
       <td><a href="https://github.com/hossainchisty/covid19-dashboard" target="_blank">Coronavirus Dashboard</a></td>

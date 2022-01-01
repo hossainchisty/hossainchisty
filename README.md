@@ -60,7 +60,7 @@
       <td><a href="http://abbaclan.herokuapp.com" target="_blank">Abba Clan</a></td>
       <td> Project : Abba Clan - http://abbaclan.herokuapp.com 
           <br> Role : Backend Developer 
-          <br> Description : Write, Share and Read lots of Stories With Your Loved Ones
+          <br> Description : Abba's Clan is a Writers and Readers Platform for writing and sharing short stories With Your Loved Ones.
           <br> Technology : Python, Django, Django Rest Framework.
       </td>
     </tr>

@@ -4,7 +4,7 @@
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png"/>
 - 👯 I’m looking to collaborate on other Django Developers.
-- 🎯 I’m currently learning FastAPI, Javascript, React.
+- 🎯 I’m currently learning FastAPI, MERN Stack.
 
 ### Technologies & Tools
 

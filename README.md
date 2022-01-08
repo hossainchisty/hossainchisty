@@ -1,6 +1,6 @@
 ### Hey! I'm [@hossainchisty](https://www.linkedin.com/in/hossainchisty/) (Hossain Chisty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
 - 🔭 I’m currently working on backend projects looking for exciting job opportunity to learn more.
-- 🛠️ My tech stack is Python, Django, Django Rest Framework, GraphQL, PostgreSQL, Docker, Nginx, Github Actions.
+- 🛠️ My tech stack is Python, Django, Celery, Redis, Django Rest Framework, GraphQL, PostgreSQL.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png"/>
 - 👯 I’m looking to collaborate on other Django Developers.
@@ -14,9 +14,10 @@
 [<img align="left" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="30px" alt="FastAPI">]()
 [<img align="left" alt="bia-graphql" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />]()
 [<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
+[<img align="left" alt="Nodejs" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />]() 
-[<img align="left" alt="Docker" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />]()
+<!-- [<img align="left" alt="Docker" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />]()-->
 <!-- [<img align="left" alt="nginx"  width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />]()-->
 <!-- Technologies & Tools end -->
 <br>

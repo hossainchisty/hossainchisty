@@ -73,6 +73,11 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#4](https://github.com/hossainchisty/Multi-Vendor-eCommerce/issues/4) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+2. ❌ Closed PR [#5](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/5) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+3. ❌ Closed PR [#6](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/6) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+4. ❌ Closed PR [#4](https://github.com/hossainchisty/Health-Care-Django/pull/4) in [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
+5. 🎉 Merged PR [#1](https://github.com/hossainchisty/Django-Simple-Photo-Album/pull/1) in [hossainchisty/Django-Simple-Photo-Album](https://github.com/hossainchisty/Django-Simple-Photo-Album)
 <!--END_SECTION:activity-->
 
 <!-- Connect start -->

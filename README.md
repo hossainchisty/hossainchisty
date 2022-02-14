@@ -70,6 +70,11 @@
 </table>
 <!-- Project end -->
 
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!-- Connect start -->
 ### Get in touch
 

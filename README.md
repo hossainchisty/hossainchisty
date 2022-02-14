@@ -70,7 +70,7 @@
 </table>
 <!-- Project end -->
 
-## Recent GitHub Activity
+## ⚡Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#4](https://github.com/hossainchisty/Multi-Vendor-eCommerce/issues/4) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)

@@ -75,11 +75,11 @@
 ### ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/hossainchisty/Health-Care-Django/pull/5) in [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
-2. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
-3. 🎉 Merged PR [#7](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/7) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
-4. ❗️ Closed issue [#4](https://github.com/hossainchisty/Multi-Vendor-eCommerce/issues/4) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
-5. ❌ Closed PR [#5](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/5) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+1. ❌ Closed PR [#3](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/3) in [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
+2. 🎉 Merged PR [#5](https://github.com/hossainchisty/Health-Care-Django/pull/5) in [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
+3. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
+4. 🎉 Merged PR [#7](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/7) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+5. ❗️ Closed issue [#4](https://github.com/hossainchisty/Multi-Vendor-eCommerce/issues/4) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
 <!--END_SECTION:activity-->
 
 <!-- Connect start -->

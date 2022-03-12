@@ -1,7 +1,6 @@
 ### Hey! I'm [@hossainchisty](https://www.linkedin.com/in/hossainchisty/) (Hossain Chisty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
 - 🔭 I’m currently working on backend projects looking for exciting job opportunity to learn more.
 - 🛠️ My tech stack is Python, Django, Celery, Redis, Django Rest Framework, GraphQL, PostgreSQL.
-- 💬 I would love to talk about internship opportunities starting January 2022.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png"/>
 - 👯 I’m looking to collaborate on other Django Developers.

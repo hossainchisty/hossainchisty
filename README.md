@@ -1,5 +1,4 @@
-### Hey! I'm [@hossainchisty](https://www.linkedin.com/in/hossainchisty/) (Hossain Chisty) <img
-  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hey! I'm [@hossainchisty](https://www.linkedin.com/in/hossainchisty/) (Hossain Chisty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 - 🔭 I’m currently working on backend projects looking for exciting job opportunity to learn more.
 - 🛠️ My tech stack is Python, Django, Flask, FastAPI, Django Rest Framework, GraphQL, Celery, Redis, SQL, PostgreSQL.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.

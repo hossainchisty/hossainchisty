@@ -1,4 +1,5 @@
-### Hey! I'm [@hossainchisty](https://www.linkedin.com/in/hossainchisty/) (Hossain Chisty) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hey! I'm [@hossainchisty](https://www.linkedin.com/in/hossainchisty/) (Hossain Chisty) <img
+  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 - 🔭 I’m currently working on backend projects looking for exciting job opportunity to learn more.
 - 🛠️ My tech stack is Python, Django, Flask, FastAPI, Django Rest Framework, GraphQL, Celery, Redis, SQL, PostgreSQL.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
@@ -41,6 +42,7 @@
     </tr>
   </thead>
   <tbody>
+    <!-- Multivendor Product Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Multi-Vendor-eCommerce" target="_blank">Multi Vendor Ecommerce</a>
       </td>
@@ -49,7 +51,17 @@
         <br>Technology : Python, Django, Celery, Redis, Stripe, Cloudinary, Sentry-sdk, Docker.
       </td>
     </tr>
+    <!-- Multivendor Product End -->
+    <!-- Filmify Product Start -->
+    <tr>
+      <td><a href="#" target="_blank">Filmify</a></td>
+      <td> Filmify is a streaming service related to movies, TV shows, and streaming content online – including cast,
+        production crew and personal biographies, ratings, and fan and critical reviews & More.
+        <br> Technology : Python, Django, Django Rest Framework.
+      </td>
     </tr>
+    </tr>
+    <!-- Filmify Product End -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Freshdesk-CRM-Platform" target="_blank">Freshdesk CRM Platform</a>
       </td>
@@ -77,13 +89,6 @@
         Loved Ones.
         <br> Technology : Python, Django, Django Rest Framework.
       </td>
-    <tr>
-      <td><a href="#" target="_blank">Filmify</a></td>
-      <td> Filmify is a streaming service related to movies, TV shows, and streaming content online – including cast,
-        production crew and personal biographies, ratings, and fan and critical reviews & More.
-        <br> Technology : Python, Django, Django Rest Framework.
-      </td>
-    </tr>
 
   </tbody>
 </table>

@@ -7,7 +7,7 @@
 - 🎯 I’m currently learning MERN Stack.
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
-### Technologies & Tools
+### 💪 Skills
 
 <!-- Technologies & Tools start -->
 [<img align="left" alt="Python" width="26px"
@@ -29,6 +29,12 @@
 <!-- Technologies & Tools end -->
 <br>
 <br>
+
+### 📘 Certification
+↪️ <a href="https://creativeitinstitute.com/certificate?cid=ESPD+20100307" target="_blank">Python And Django Web Developer Bootcamp</a><br>
+<br>
+
+
 
 ### My Projects
 

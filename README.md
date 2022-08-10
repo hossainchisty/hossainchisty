@@ -62,7 +62,7 @@
       <td><a href="https://github.com/hossainchisty/Filmify" target="_blank">Filmify</a></td>
       <td> Filmify is a streaming service related to movies, TV shows, and streaming content online – including cast,
         production crew and personal biographies, ratings, and fan and critical reviews & More.
-        <br> Technology : Python, Django, Django Rest Framework.
+          <br> Technology : Python, Django, Django Rest Framework.
       </td>
     </tr>
     </tr>
@@ -70,7 +70,8 @@
     <tr>
       <td><a href="https://github.com/hossainchisty/Freshdesk-CRM-Platform" target="_blank">Freshdesk CRM Platform</a>
       </td>
-      <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business.</td>
+      <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. <br> Technology : Python, Django, DRF, Redis, Celery, Cloudinary, Sentry-sdk, Docker.
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/hossainchisty/Income-Expense-Management" target="_blank">Income & Expense

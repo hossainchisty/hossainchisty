@@ -2,10 +2,11 @@
 - 🔭 I’m currently working on backend projects looking for exciting job opportunity to learn more.
 - 🛠️ My tech stack is Python, Django, Flask, FastAPI, Django Rest Framework, GraphQL, Celery, Redis, SQL, PostgreSQL.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
-- 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png" />
 - 👯 I’m looking to collaborate on other Django Developers.
 - 🎯 I’m currently learning MERN Stack.
+- 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png" />
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+- ⚡ Fun fact Coffee over anything!!
 
 ### 💪 Skills
 

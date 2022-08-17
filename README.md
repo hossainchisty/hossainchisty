@@ -8,28 +8,25 @@
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - ⚡ Fun fact Coffee over anything!!
 
-### 💪 Skills
+### 💪 Skills & Technologies
+- Python (Experience: 2+ years)
+- Django Rest Framework (Experience: 1+ year) 
+- Django (Experience: 2+ years)
+- FastAPI (Experience: 4 months)
+- Flask (Experience: Just enough to handle projects)
+- RESTful, GraphQL API
+- PostgreSQL, Redis, SQL
+- Celery, RabbitMQ (Experience: Enough to use on projects as required)
+- Docker (Experience: Learning)
+- Nginx (Experience: Learning)
+- Git, Github
+- Build automation, CI/CD (Experience: Learning)
 
-<!-- Technologies & Tools start -->
-[<img align="left" alt="Python" width="26px"
-  src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
-[<img align="left" alt="Django" width="26px" src="https://cdn.worldvectorlogo.com/logos/django.svg" />]()
-[<img align="left" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="30px" alt="FastAPI">]()
-[<img align="left" alt="bia-graphql" width="26"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />]()
-[<img align="left" alt="Postgresql" width="26px"
-  src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
-[<img align="left" alt="Nodejs" width="26px"
-  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />]()
-[<img align="left" alt="JavaScript" width="26px"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="React" width="26px"
-  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />]()
-<!-- [<img align="left" alt="Docker" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />]()-->
-<!-- [<img align="left" alt="nginx"  width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />]()-->
-<!-- Technologies & Tools end -->
-<br>
-<br>
+### 🧐 Area of Interest
+- Web Automation
+- API design and development
+- Micro-service architecture
+- Automating development workflows and deployment pipelines
 
 ### 📘 Certification
 ↪️ <a href="https://creativeitinstitute.com/certificate?cid=ESPD+20100307" target="_blank">Python And Django Web Developer Bootcamp</a><br>

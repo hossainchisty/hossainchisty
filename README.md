@@ -10,8 +10,8 @@
 
 ### 💪 Skills & Technologies
 - Python (Experience: 2+ years)
-- Django Rest Framework (Experience: 1+ year) 
 - Django (Experience: 2+ years)
+- Django Rest Framework (Experience: 1+ year) 
 - FastAPI (Experience: 4 months)
 - Flask (Experience: Just enough to handle projects)
 - RESTful, GraphQL API
@@ -20,7 +20,7 @@
 - Docker (Experience: Learning)
 - Nginx (Experience: Learning)
 - Git, Github
-- Build automation, CI/CD (Experience: Learning)
+- Unit Test: Pytest framework 
 
 ### 🧐 Area of Interest
 - Web Automation

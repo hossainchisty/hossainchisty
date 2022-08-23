@@ -4,7 +4,7 @@
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 👯 I’m looking to collaborate on other Django Developers.
 - 🎯 I’m currently learning MERN Stack.
-- 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png" />
+- 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png" />, MongoDB, Express, React, Node
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - ⚡ Fun fact Coffee over anything!!
 
@@ -56,6 +56,25 @@
       </td>
     </tr>
     <!-- Multivendor Product End -->
+         <!-- Freshdesk Product Seat -->
+    <tr>
+      <td><a href="https://github.com/hossainchisty/Freshdesk-CRM-Platform" target="_blank">Freshdesk CRM Platform</a>
+      </td>
+      <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. <br> Technology : Python, Django, DRF, PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker.
+      </td>
+    </tr>
+    <tr>
+     <!-- Freshdesk Product End -->
+     <!-- SME Inventory Product Start -->
+    <tr>
+      <td><a href="https://github.com/hossainchisty/SME-Inventory-Management" target="_blank">SME Inventory Management</a></td>
+      <td> Inventory management refers to the process of ordering, storing, using, and selling a company's inventory. This includes the management of raw materials, components, and finished products and processing of such items.
+          <br> Technology : Python, Django, DRF, PostgreSQL, Docker, Github Actions.
+      </td>
+    </tr>
+    </tr>
+    <!-- SME Inventory Product End -->
+    
     <!-- Filmify Product Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Filmify" target="_blank">Filmify</a></td>
@@ -66,13 +85,8 @@
     </tr>
     </tr>
     <!-- Filmify Product End -->
-    <tr>
-      <td><a href="https://github.com/hossainchisty/Freshdesk-CRM-Platform" target="_blank">Freshdesk CRM Platform</a>
-      </td>
-      <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. <br> Technology : Python, Django, DRF, PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker.
-      </td>
-    </tr>
-    <tr>
+    
+    
       <td><a href="https://github.com/hossainchisty/Income-Expense-Management" target="_blank">Income & Expense
           Management</a></td>
       <td>Income & Expense Management System is an application that allows you to control your finances, you Will know

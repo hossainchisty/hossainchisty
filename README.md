@@ -130,8 +130,8 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/9) in
-   [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
+1. 🎉 Merged PR [#9](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/9) in [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
+2. 🎉 Merged PR [#8](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/8) in [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
 2. 🎉 Merged PR [#8](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/8) in
    [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
 3. 🎉 Merged PR [#5](https://github.com/hossainchisty/Health-Care-Django/pull/5) in

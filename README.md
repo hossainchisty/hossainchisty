@@ -130,11 +130,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/9) in [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
-2. 🎉 Merged PR [#8](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/8) in [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
-2. 🎉 Merged PR [#8](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/8) in
-   [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
-3. 🎉 Merged PR [#5](https://github.com/hossainchisty/Health-Care-Django/pull/5) in
+1. 🎉 Merged PR [#10](https://github.com/hossainchisty/Freshdesk-CRM-Platform/pull/10) in [hossainchisty/Freshdesk-CRM-Platform](https://github.com/hossainchisty/Freshdesk-CRM-Platform)
+2. 🎉 Merged PR [#12](https://github.com/hossainchisty/Freshdesk-CRM-Platform/pull/12) in [hossainchisty/Freshdesk-CRM-Platform](https://github.com/hossainchisty/Freshdesk-CRM-Platform)
+3. 🎉 Merged PR [#16](https://github.com/hossainchisty/Freshdesk-CRM-Platform/pull/16) in [hossainchisty/Freshdesk-CRM-Platform](https://github.com/hossainchisty/Freshdesk-CRM-Platform)
+4. 🎉 Merged PR [#9](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/9) in [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
+5. 🎉 Merged PR [#8](https://github.com/hossainchisty/eCommerce-backend-APIs/pull/8) in [hossainchisty/eCommerce-backend-APIs](https://github.com/hossainchisty/eCommerce-backend-APIs)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

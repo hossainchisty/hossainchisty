@@ -23,7 +23,7 @@
 - Docker (Experience: Learning)
 - Nginx (Experience: Learning)
 - Elasticsearch (Experience: Learning)
-- Git, Github
+- Git, Github, GitHub Actions
 - Unit Test: Pytest framework
 
 ### 🧐 Area of Interest

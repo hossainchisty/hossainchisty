@@ -64,7 +64,7 @@ Developer Bootcamp</a><br>
     <tr>
       <td><a href="https://github.com/hossainchisty/Freshdesk-CRM-Platform" target="_blank">Freshdesk CRM Platform</a>
       </td>
-      <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. <br> Technology : Python, Django, DRF,
+      <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. It has also the Admin dashboard.<br> Technology : Python, Django, DRF,
         PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker.
       </td>
     <tr>

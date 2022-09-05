@@ -73,7 +73,7 @@ Developer Bootcamp</a><br>
     <tr>
       <td><a href="https://github.com/hossainchisty/SME-Inventory-Management" target="_blank">SME Inventory
           Management</a></td>
-      <td> Inventory management refers to the process of ordering, storing, using, and selling a company's inventory.
+      <td> SME(Small and Medium Enterprise) Inventory management refers to the process of ordering, storing, using, and selling a company's inventory.
         This includes the management of raw materials, components, and finished products and processing of such items.
         <br> Technology : Python, Django, DRF, PostgreSQL, Docker, Github Actions.
       </td>

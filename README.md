@@ -5,7 +5,7 @@
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 👯 I’m looking to collaborate on other Django Developers.
 - 🎯 I’m currently learning MERN Stack.
-- 🤔 Exploring: Golang <img width="15" src="https://img.icons8.com/color/48/000000/golang.png" />, MongoDB, Express,
+- 🤔 Exploring: Golang, MongoDB, Express,
   React, Node
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - ⚡ Fun fact Coffee over anything!!

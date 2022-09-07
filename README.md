@@ -147,6 +147,11 @@ Developer Bootcamp</a><br>
 [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
 <!--END_SECTION:activity-->
 
+### 📚 Latest Medium Story
+
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
+
 <!-- Connect start -->
 
 ### Get in touch

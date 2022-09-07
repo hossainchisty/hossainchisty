@@ -1,4 +1,4 @@
-name: Latest Medium story workflow
+name: Latest dev.to blog posts
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://hossainchisty.medium.com"
+          feed_list: "https://dev.to/feed/hossainchisty"

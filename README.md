@@ -147,7 +147,7 @@ Developer Bootcamp</a><br>
 [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
 <!--END_SECTION:activity-->
 
-### 📚 Latest blog posts
+### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Build ERP Software With Django](https://hossainchisty.medium.com/django-erp-software-bd5de048a6de)

@@ -150,7 +150,6 @@ Developer Bootcamp</a><br>
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Build ERP Software With Django](https://hossainchisty.medium.com/django-erp-software-bd5de048a6de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Connect start -->

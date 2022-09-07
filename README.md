@@ -130,11 +130,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/hossainchisty/Blood-Donation-Organization/pull/10) in [hossainchisty/Blood-Donation-Organization](https://github.com/hossainchisty/Blood-Donation-Organization)
-2. 🎉 Merged PR [#2](https://github.com/hossainchisty/Blood-Donation-Organization/pull/2) in [hossainchisty/Blood-Donation-Organization](https://github.com/hossainchisty/Blood-Donation-Organization)
-3. 🎉 Merged PR [#3](https://github.com/hossainchisty/Blood-Donation-Organization/pull/3) in [hossainchisty/Blood-Donation-Organization](https://github.com/hossainchisty/Blood-Donation-Organization)
-4. 🎉 Merged PR [#4](https://github.com/hossainchisty/Blood-Donation-Organization/pull/4) in [hossainchisty/Blood-Donation-Organization](https://github.com/hossainchisty/Blood-Donation-Organization)
-5. 🎉 Merged PR [#10](https://github.com/hossainchisty/Health-Care-Django/pull/10) in [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
+1. ❌ Closed PR [#13](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/13) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+2. 💪 Opened PR [#13](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/13) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+3. 🎉 Merged PR [#10](https://github.com/hossainchisty/Blood-Donation-Organization/pull/10) in [hossainchisty/Blood-Donation-Organization](https://github.com/hossainchisty/Blood-Donation-Organization)
+4. 🎉 Merged PR [#2](https://github.com/hossainchisty/Blood-Donation-Organization/pull/2) in [hossainchisty/Blood-Donation-Organization](https://github.com/hossainchisty/Blood-Donation-Organization)
+5. 🎉 Merged PR [#3](https://github.com/hossainchisty/Blood-Donation-Organization/pull/3) in [hossainchisty/Blood-Donation-Organization](https://github.com/hossainchisty/Blood-Donation-Organization)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

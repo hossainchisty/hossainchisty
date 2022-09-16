@@ -16,16 +16,16 @@
 - Python (Experience: 2+ years)
 - Django (Experience: 2+ years)
 - Django Rest Framework (Experience: 1+ year)
-- FastAPI (Experience: 10 months)
+- FastAPI (Experience: Learning)
 - Flask (Experience: Just enough to handle projects)
-- RESTful, GraphQL API
-- PostgreSQL, Redis, SQL
+- PostgreSQL, Redis, SQL (Experience: Enough to use on projects as required)
 - Celery, RabbitMQ (Experience: Enough to use on projects as required)
 - Docker (Experience: Learning)
 - Nginx (Experience: Learning)
 - Elasticsearch (Experience: Learning)
 - Git, Github, GitHub Actions
 - Unit Test: Pytest framework
+- Experience in using API testing tools like Postman.
 
 ### 🧐 Area of Interest
 
@@ -194,7 +194,7 @@ Developer Bootcamp</a><br>
   it solve real life problems.
   I am always enthusiastic about new technologies and eager to work on a challenging project.
   <br>
-  Building backend with Python, Django, Django Rest Framework, GraphQL, PostgreSQL, Docker, Celery, Redis.
+  Building backend with Python, Django, Django Rest Framework, PostgreSQL, Docker, Celery, Redis.
 
 #### Github Stats
 

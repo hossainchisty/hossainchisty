@@ -51,16 +51,6 @@ Developer Bootcamp</a><br>
     </tr>
   </thead>
   <tbody>
-    <!-- Multivendor Product Start -->
-    <tr>
-      <td><a href="https://github.com/hossainchisty/Multi-Vendor-eCommerce" target="_blank">Multi Vendor Ecommerce</a>
-      </td>
-      <td>Multi Vendor Ecommerce Application With RBAC Feature
-        <br>Live Demo: https://multi-vendor-ecommerce-site.herokuapp.com
-        <br>Technology : Python, Django, Celery, Redis, Stripe, Cloudinary, Sentry-sdk, Docker.
-      </td>
-    </tr>
-    <!-- Multivendor Product End -->
     <!-- Freshdesk Product Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Freshdesk-ERP-Platform" target="_blank">Freshdesk ERP Platform</a>
@@ -70,6 +60,15 @@ Developer Bootcamp</a><br>
       </td>
     <tr>
     <!-- Freshdesk Product End -->
+    <!-- Multivendor Product Start -->
+    <tr>
+      <td><a href="https://github.com/hossainchisty/Multi-Vendor-eCommerce" target="_blank">Multi Vendor Ecommerce</a>
+      </td>
+      <td>Multi Vendor Ecommerce Application With RBAC Feature
+        <br>Technology : Python, Django, Celery, Redis, Stripe, Cloudinary, Sentry-sdk, Docker.
+      </td>
+    </tr>
+    <!-- Multivendor Product End -->
     <!-- SME Inventory Product Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/SME-Inventory-Management" target="_blank">SME Inventory

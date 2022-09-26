@@ -130,11 +130,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#21](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/21) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-2. ❗️ Closed issue [#20](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/20) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-3. ❗️ Opened issue [#20](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/20) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-4. ❗️ Opened issue [#5355](https://github.com/EddieHubCommunity/support/issues/5355) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Opened issue [#5340](https://github.com/EddieHubCommunity/support/issues/5340) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#8](https://github.com/hossainchisty/Income-Expense-Management/pull/8) in [hossainchisty/Income-Expense-Management](https://github.com/hossainchisty/Income-Expense-Management)
+2. 🎉 Merged PR [#6](https://github.com/hossainchisty/Income-Expense-Management/pull/6) in [hossainchisty/Income-Expense-Management](https://github.com/hossainchisty/Income-Expense-Management)
+3. ❗️ Opened issue [#21](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/21) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+4. ❗️ Closed issue [#20](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/20) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+5. ❗️ Opened issue [#20](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/20) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

@@ -36,7 +36,9 @@
 
 ### 📘 Certification
 
-↪️ <a href="https://creativeitinstitute.com/certificate?cid=ESPD+20100307" target="_blank">Python And Django Web
+↪️ <a href="https://drive.google.com/file/d/1mvyjIoWzn59Df_kCNmbljzztrxhXswx8/view?usp=sharing" target="_blank">AWS Cloud Practitioner Essentials</a><br>
+
+↪️ <a href="https://media-exp1.licdn.com/dms/image/D562DAQHXlE8URW68Iw/profile-treasury-image-shrink_800_800/0/1662803268423?e=1666173600&v=beta&t=_8zDO4nnZZ7pEkNdhxi0hVt0KIpr7PK1zgbb9pIOC94" target="_blank">Python And Django Web
 Developer Bootcamp</a><br>
 <br>
 

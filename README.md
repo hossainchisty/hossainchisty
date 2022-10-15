@@ -132,11 +132,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/hossainchisty/Income-Expense-Management/pull/8) in [hossainchisty/Income-Expense-Management](https://github.com/hossainchisty/Income-Expense-Management)
-2. 🎉 Merged PR [#6](https://github.com/hossainchisty/Income-Expense-Management/pull/6) in [hossainchisty/Income-Expense-Management](https://github.com/hossainchisty/Income-Expense-Management)
-3. ❗️ Opened issue [#21](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/21) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-4. ❗️ Closed issue [#20](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/20) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-5. ❗️ Opened issue [#20](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/20) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+1. ❗️ Opened issue [#1](https://github.com/Muzmmil207/Muzmmil207/issues/1) in [Muzmmil207/Muzmmil207](https://github.com/Muzmmil207/Muzmmil207)
+2. 🎉 Merged PR [#8](https://github.com/hossainchisty/Income-Expense-Management/pull/8) in [hossainchisty/Income-Expense-Management](https://github.com/hossainchisty/Income-Expense-Management)
+3. 🎉 Merged PR [#6](https://github.com/hossainchisty/Income-Expense-Management/pull/6) in [hossainchisty/Income-Expense-Management](https://github.com/hossainchisty/Income-Expense-Management)
+4. ❗️ Opened issue [#21](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/21) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+5. ❗️ Closed issue [#20](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/20) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

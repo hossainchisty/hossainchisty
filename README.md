@@ -82,6 +82,16 @@ Developer Bootcamp</a><br>
     </tr>
   <!-- SME Inventory Product End -->
 
+  <!-- Pharmacare Pharmacy Management Product Start -->
+   <tr>
+      <td><a href="https://github.com/hossainchisty/Pharmacare-Pharmacy-Management" target="_blank">Pharmacare Pharmacy Management</a></td>
+      <td>The pharmacy management software ensures a well-organized functioning, modern invoicing system, revenue management, inventory track mechanism, and boosting up your business.
+        <br> Technology : Python, Django, DRF, PostgreSQL, Docker, Github Actions.
+      </td>
+    </tr>
+  <!-- Pharmacare Pharmacy Management Product End -->
+
+  
   <!-- I & E Management Product Start -->
    <tr>
       <td><a href="https://github.com/hossainchisty/Income-Expense-Management" target="_blank">Income & Expense

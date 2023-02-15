@@ -94,8 +94,8 @@ Developer Bootcamp</a><br>
    <!-- Hospital Management Software Product Start -->
    <tr>
         <td><a href="" target="_blank">Hospital Management Software</a></td>
-        <td> Hospital management software designed for hospital, clinic, Diagnostic center in Bangladesh. This will helps to manage everything you need to run your health clinic. It helps to manage patient registration, appointments, invoices, and billing, pathology. It helps to keep records and monitor the activities of any hospital.
-        <br> Technology : Python, Django, Django Rest Framework.
+        <td> Hospital management software designed for hospital, clinic, Diagnostic center in Bangladesh. Complete ERP solution for healthcare. This will helps to manage everything you need to run your health clinic. It helps to manage patient registration, appointments, invoices, and billing, pathology. It helps to keep records and monitor the activities of any hospital.
+        <br> Technology : Python, Django, Jinja, Javascript.
       </td>
     </tr>
   <!-- Hospital Management Software Product End -->

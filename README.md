@@ -91,6 +91,14 @@ Developer Bootcamp</a><br>
     </tr>
   <!-- Pharmacare Pharmacy Management Product End -->
 
+   <!-- Hospital Management Software Product Start -->
+   <tr>
+        <td><a href="" target="_blank">Hospital Management Software</a></td>
+        <td> Hospital management software designed for hospital, clinic, Diagnostic center in Bangladesh. This will help to maintain any hospital activities properly and easily. Moreover, the hospital management system can be used as clinical software. It helps to keep records and monitor the activities of any hospital.
+        <br> Technology : Python, Django, Django Rest Framework.
+      </td>
+    </tr>
+  <!-- Hospital Management Software Product End -->
   
   <!-- I & E Management Product Start -->
    <tr>
@@ -102,16 +110,6 @@ Developer Bootcamp</a><br>
       </td>
     </tr>
   <!-- I & E Management Product End -->
-
-  <!-- Filmify Product Start -->
-   <tr>
-        <td><a href="https://github.com/hossainchisty/Filmify" target="_blank">Filmify</a></td>
-        <td> Filmify is a streaming service related to movies, TV shows, and streaming content online – including cast,
-        production crew and personal biographies, ratings, and fan and critical reviews & More.
-        <br> Technology : Python, Django, Django Rest Framework.
-      </td>
-    </tr>
-  <!-- Filmify Product End -->
 
   <!-- Coronavirus Dashboard Start -->
    <tr>

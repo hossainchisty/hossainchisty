@@ -140,11 +140,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/hossainchisty/Photo-Album-App/pull/5) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
-2. 🎉 Merged PR [#12](https://github.com/hossainchisty/Photo-Album-App/pull/12) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
-3. 🎉 Merged PR [#1](https://github.com/hossainchisty/SME-Inventory-Management/pull/1) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-4. ❗️ Opened issue [#1](https://github.com/Muzmmil207/Muzmmil207/issues/1) in [Muzmmil207/Muzmmil207](https://github.com/Muzmmil207/Muzmmil207)
-5. 🎉 Merged PR [#8](https://github.com/hossainchisty/Income-Expense-Management/pull/8) in [hossainchisty/Income-Expense-Management](https://github.com/hossainchisty/Income-Expense-Management)
+1. 🎉 Merged PR [#2](https://github.com/hossainchisty/Flask-Cache-Redis/pull/2) in [hossainchisty/Flask-Cache-Redis](https://github.com/hossainchisty/Flask-Cache-Redis)
+2. 🎉 Merged PR [#1](https://github.com/hossainchisty/Flask-Cache-Redis/pull/1) in [hossainchisty/Flask-Cache-Redis](https://github.com/hossainchisty/Flask-Cache-Redis)
+3. 🎉 Merged PR [#5](https://github.com/hossainchisty/Photo-Album-App/pull/5) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
+4. 🎉 Merged PR [#12](https://github.com/hossainchisty/Photo-Album-App/pull/12) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
+5. 🎉 Merged PR [#1](https://github.com/hossainchisty/SME-Inventory-Management/pull/1) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

@@ -1,7 +1,7 @@
 ### Hey! I'm Hossain Chisty
 
 - 🔭 I’m currently working on backend projects looking for exciting job opportunity to learn more.
-- 🛠️ My tech stack is Python, Django, Flask, FastAPI, Django Rest Framework, NodeJS, Express JS, SQL, PostgreSQL, MongoDB.
+- 🛠️ My tech stack is Python, Django, FastAPI, Django Rest Framework, NodeJS, Express JS, SQL, PostgreSQL, MongoDB.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🌱 I’m currently learning MERN Stack.
 - 🤔 Exploring: Golang, MongoDB, Express,

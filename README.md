@@ -140,11 +140,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/hossainchisty/Django-Todo-App/pull/8) in [hossainchisty/Django-Todo-App](https://github.com/hossainchisty/Django-Todo-App)
-2. 🎉 Merged PR [#14](https://github.com/hossainchisty/Django-Todo-App/pull/14) in [hossainchisty/Django-Todo-App](https://github.com/hossainchisty/Django-Todo-App)
-3. 🎉 Merged PR [#2](https://github.com/hossainchisty/Flask-Cache-Redis/pull/2) in [hossainchisty/Flask-Cache-Redis](https://github.com/hossainchisty/Flask-Cache-Redis)
-4. 🎉 Merged PR [#1](https://github.com/hossainchisty/Flask-Cache-Redis/pull/1) in [hossainchisty/Flask-Cache-Redis](https://github.com/hossainchisty/Flask-Cache-Redis)
-5. 🎉 Merged PR [#5](https://github.com/hossainchisty/Photo-Album-App/pull/5) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
+1. 🎉 Merged PR [#1](https://github.com/hossainchisty/FastAPI-RESTful-APIs/pull/1) in [hossainchisty/FastAPI-RESTful-APIs](https://github.com/hossainchisty/FastAPI-RESTful-APIs)
+2. 🎉 Merged PR [#8](https://github.com/hossainchisty/Django-Todo-App/pull/8) in [hossainchisty/Django-Todo-App](https://github.com/hossainchisty/Django-Todo-App)
+3. 🎉 Merged PR [#14](https://github.com/hossainchisty/Django-Todo-App/pull/14) in [hossainchisty/Django-Todo-App](https://github.com/hossainchisty/Django-Todo-App)
+4. 🎉 Merged PR [#2](https://github.com/hossainchisty/Flask-Cache-Redis/pull/2) in [hossainchisty/Flask-Cache-Redis](https://github.com/hossainchisty/Flask-Cache-Redis)
+5. 🎉 Merged PR [#1](https://github.com/hossainchisty/Flask-Cache-Redis/pull/1) in [hossainchisty/Flask-Cache-Redis](https://github.com/hossainchisty/Flask-Cache-Redis)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

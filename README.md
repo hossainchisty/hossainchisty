@@ -15,16 +15,14 @@
 
 - Python (Experience: 2+ years)
 - Django (Experience: 2+ years)
-- Django Rest Framework (Experience: 1+ year)
-- FastAPI (Experience: Learning)
-- Flask (Experience: Just enough to handle projects)
+- Django Rest Framework (Experience: 2+ years)
 - PostgreSQL, Redis, SQL (Experience: Enough to use on projects as required)
 - Celery, RabbitMQ (Experience: Enough to use on projects as required)
 - Docker (Experience: Learning)
 - Nginx (Experience: Learning)
 - Elasticsearch (Experience: Learning)
 - Git, Github, GitHub Actions
-- Unit Test: Pytest framework
+- Unit Test: Jest, Pytest framework
 - Experience in using API testing tools like Postman.
 
 ### 🧐 Area of Interest

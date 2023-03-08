@@ -16,18 +16,18 @@
 - Python (Experience: 2+ years)
 - Django (Experience: 2+ years)
 - Django Rest Framework (Experience: 2+ years)
-<!-- - PostgreSQL, Redis, SQL (Experience: Enough to use on projects as required) -->
-<!-- - Celery, RabbitMQ (Experience: Enough to use on projects as required) -->
 - Docker (Experience: Learning)
-<!-- - Nginx (Experience: Learning) -->
-<!-- - Elasticsearch (Experience: Learning) -->
 - Git, Github, GitHub Actions
 - Unit Test: Jest, Pytest framework
 - Experience in using API testing tools like Postman.
+<!-- - PostgreSQL, Redis, SQL (Experience: Enough to use on projects as required) -->
+<!-- - Celery, RabbitMQ (Experience: Enough to use on projects as required) -->
+<!-- - Nginx (Experience: Learning) -->
+<!-- - Elasticsearch (Experience: Learning) -->
 
 
-#### Familiar 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
+### 👁‍🗨 Familiar 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 ### 🧐 Area of Interest
 

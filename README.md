@@ -5,7 +5,6 @@
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🌱 I’m currently learning MERN Stack.
 - 🤔 Exploring: Onion Architecture
-- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - 👀 I’m interested in Backend and DevOps.
 - 🔗 My personal [Portfolio.](https://chisty.netlify.app/)
 - ⚡ Fun fact one of my hobbies is taking beautiful photographs here is my contribution on [Unsplash](https://unsplash.com/@hossainchisty).

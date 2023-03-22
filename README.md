@@ -1,6 +1,6 @@
 ### Hey! I'm Hossain Chisty
 
-- 🔭 As a Back End Developer at [3W](https://triplewsols.com), I am actively seeking new and challenging job opportunities that will enable me to further expand my skill set and knowledge base. With a strong foundation in software development and extensive experience in back end development, I am eager to apply my expertise towards contributing to a dynamic and innovative team.
+- 💼 As a Back End Developer at [3W](https://triplewsols.com), I am actively seeking new and challenging job opportunities that will enable me to further expand my skill set and knowledge base. With a strong foundation in software development and extensive experience in back end development, I am eager to apply my expertise towards contributing to a dynamic and innovative team.
 - 🛠️ My tech stack is Python, Django, FastAPI, Django Rest Framework, NodeJS, ExpressJS, SQL, PostgreSQL, MongoDB.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🌱 I’m currently learning MERN Stack.

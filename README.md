@@ -4,7 +4,7 @@
 - 🛠️ My tech stack is Python, Django, FastAPI, Django Rest Framework, NodeJS, ExpressJS, SQL, PostgreSQL, MongoDB.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🌱 I’m currently learning MERN Stack.
-- 🤔 Exploring: Onion Architecture
+- 🤔 Exploring: Onion Architecture, Micro-service Architecture
 - 👀 I’m interested in Backend and DevOps.
 - 🔗 My personal [Portfolio.](https://chisty.netlify.app/)
 - ⚡ Fun fact one of my hobbies is taking beautiful photographs here is my contribution on [Unsplash](https://unsplash.com/@hossainchisty).

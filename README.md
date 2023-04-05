@@ -140,11 +140,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/hossainchisty/SME-Inventory-Management/pull/4) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-2. 🎉 Merged PR [#3](https://github.com/hossainchisty/Flask-Cache-Redis/pull/3) in [hossainchisty/Flask-Cache-Redis](https://github.com/hossainchisty/Flask-Cache-Redis)
-3. 🎉 Merged PR [#1](https://github.com/hossainchisty/FastAPI-RESTful-APIs/pull/1) in [hossainchisty/FastAPI-RESTful-APIs](https://github.com/hossainchisty/FastAPI-RESTful-APIs)
-4. 🎉 Merged PR [#8](https://github.com/hossainchisty/Django-Todo-App/pull/8) in [hossainchisty/Django-Todo-App](https://github.com/hossainchisty/Django-Todo-App)
-5. 🎉 Merged PR [#14](https://github.com/hossainchisty/Django-Todo-App/pull/14) in [hossainchisty/Django-Todo-App](https://github.com/hossainchisty/Django-Todo-App)
+1. ❗️ Closed issue [#21](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/21) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+2. 🎉 Merged PR [#4](https://github.com/hossainchisty/SME-Inventory-Management/pull/4) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
+3. 🎉 Merged PR [#3](https://github.com/hossainchisty/Flask-Cache-Redis/pull/3) in [hossainchisty/Flask-Cache-Redis](https://github.com/hossainchisty/Flask-Cache-Redis)
+4. 🎉 Merged PR [#1](https://github.com/hossainchisty/FastAPI-RESTful-APIs/pull/1) in [hossainchisty/FastAPI-RESTful-APIs](https://github.com/hossainchisty/FastAPI-RESTful-APIs)
+5. 🎉 Merged PR [#8](https://github.com/hossainchisty/Django-Todo-App/pull/8) in [hossainchisty/Django-Todo-App](https://github.com/hossainchisty/Django-Todo-App)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

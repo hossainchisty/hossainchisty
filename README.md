@@ -1,6 +1,6 @@
 ### Hey! I'm Hossain Chisty
 
-- 💼 I am actively seeking new and challenging job opportunities that will enable me to further expand my skill set and knowledge base. With a strong foundation in software development and extensive experience in back end development, I am eager to apply my expertise towards contributing to a dynamic and innovative team.
+- 💼 As a Self-taught and highly motivated with a strong foundation in back end development, I am actively seeking new and challenging job opportunities to expand my skill set and knowledge base. I am excited to collaborate with a dynamic team of engineers on challenging and impactful projects, and contribute my expertise to a team that values innovation and growth.
 - 🛠️ My tech stack is Python, Django, FastAPI, Django Rest Framework, NodeJS, ExpressJS, SQL, PostgreSQL, MongoDB.
 - 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
 - 🌱 I’m currently learning MERN Stack.

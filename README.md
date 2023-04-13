@@ -119,15 +119,6 @@ Developer Bootcamp</a><br>
     </tr>
   <!-- I & E Management Product End -->
 
-  <!-- Coronavirus Dashboard Start -->
-   <tr>
-      <td><a href="https://github.com/hossainchisty/covid19-dashboard" target="_blank">Coronavirus Dashboard</a></td>
-      <td>Coronavirus disease situation dashboard presents daily counts of COVID-19 cases and deaths worldwide &
-        Bangladesh.</td>
-      </td>
-    </tr>
-  <!-- Coronavirus Dashboard End -->
-
   <!-- Abba Clan Start -->
    <tr>
       <td><a href="http://abbaclan.herokuapp.com" target="_blank">Abba Clan</a></td>

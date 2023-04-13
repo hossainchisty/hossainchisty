@@ -83,21 +83,21 @@ Developer Bootcamp</a><br>
   <!-- SME Inventory Product End -->
 
   <!-- HealthMart Pharmacy Management Product Start -->
-   <tr>
+<!--    <tr>
       <td><a href="https://github.com/hossainchisty/Pharmacare-Pharmacy-Management" target="_blank">HealthMart</a></td>
       <td>The pharmacy management software ensures a well-organized functioning, modern invoicing system, revenue management, inventory track mechanism, and boosting up your business.
         <br> Technology : Python, Django, DRF, PostgreSQL, Docker, Github Actions.
       </td>
-    </tr>
+    </tr> -->
   <!-- HealthMart Pharmacy Management Product End -->
 
    <!-- Hospital Management Software Product Start -->
-   <tr>
+<!--    <tr>
         <td><a href="" target="_blank">Hospital Management Software</a></td>
         <td> Hospital management software designed for hospital, clinic, Diagnostic center in Bangladesh. Complete ERP solution for healthcare. This will helps to manage everything you need to run your health clinic. It helps to manage patient registration, appointments, invoices, and billing, pathology. It helps to keep records and monitor the activities of any hospital.
         <br> Technology : Python, Django, Jinja, Javascript.
       </td>
-    </tr>
+    </tr> -->
   <!-- Hospital Management Software Product End -->
   
   <!-- I & E Management Product Start -->

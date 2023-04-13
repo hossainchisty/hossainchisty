@@ -122,7 +122,7 @@ Developer Bootcamp</a><br>
   <!-- Abba Clan Start -->
    <tr>
       <td><a href="http://abbaclan.herokuapp.com" target="_blank">Abba Clan</a></td>
-      <td> Project : Abba Clan - http://abbaclan.herokuapp.com
+      <td> Project : Abba Clan 
         <br> Role : Backend Developer
         <br> Description : Abba's Clan is a Writers and Readers Platform for writing and sharing short stories With Your
         Loved Ones.

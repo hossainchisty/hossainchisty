@@ -202,7 +202,7 @@ Developer Bootcamp</a><br>
   it solve real life problems.
   I am always enthusiastic about new technologies and eager to work on a challenging project.
   <br>
-  Building backend with Python, Django, Django Rest Framework, PostgreSQL, Docker, Celery, Redis.
+  Building backend with Python, Django, FastAPI, Django Rest Framework, Firebase Authentication, Node js, Express Js, MongoDB, SQL, PostgreSQL.
 
 #### Github Stats
 

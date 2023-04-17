@@ -139,11 +139,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/hossainchisty/Filmify/pull/5) in [hossainchisty/Filmify](https://github.com/hossainchisty/Filmify)
-2. 🎉 Merged PR [#7](https://github.com/hossainchisty/Filmify/pull/7) in [hossainchisty/Filmify](https://github.com/hossainchisty/Filmify)
-3. ❌ Closed PR [#18](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/18) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
-4. ❌ Closed PR [#17](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/17) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
-5. ❌ Closed PR [#15](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/15) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+1. 🎉 Merged PR [#34](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/34) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+2. 🎉 Merged PR [#5](https://github.com/hossainchisty/Filmify/pull/5) in [hossainchisty/Filmify](https://github.com/hossainchisty/Filmify)
+3. 🎉 Merged PR [#7](https://github.com/hossainchisty/Filmify/pull/7) in [hossainchisty/Filmify](https://github.com/hossainchisty/Filmify)
+4. ❌ Closed PR [#18](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/18) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+5. ❌ Closed PR [#17](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/17) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

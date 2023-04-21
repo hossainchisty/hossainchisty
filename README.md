@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning MERN Stack.
 - 🤔 Exploring: Onion Architecture, Micro-service Architecture
 - 👀 I’m interested in Backend and DevOps.
-- 🔗 My personal [Portfolio.](https://chisty.netlify.app/)
+- 🔗 Check out my work and connect with me at [https://chisty.netlify.app/](https://chisty.netlify.app/)
 - ⚡ Fun fact one of my hobbies is taking beautiful photographs here is my contribution on [Unsplash](https://unsplash.com/@hossainchisty).
 
 ### 💪 Skills & Technologies

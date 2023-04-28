@@ -200,7 +200,13 @@ Developer Bootcamp</a><br>
   <br>
   I'm a Software Developer with a focus on backend. enthusiastic learner i love to learn things on the way and implement
   it solve real life problems.
-  I am always enthusiastic about new technologies and eager to work on a challenging project.
+  I am always enthusiastic about new technologies and eager to work on a challenging project. Sure, here's a sample bio for you:
+
+Hi there, I'm a passionate software engineer with a strong focus on MERN stack development and backend programming. I'm constantly learning and striving to improve my skills in order to create better software solutions.
+
+I have experience building complex web applications using cutting-edge technologies such as React, Node.js, MongoDB, and Express. My expertise in these areas allows me to create scalable, robust, and efficient systems that meet the needs of clients and users alike.
+
+As a learner, I am always looking for new challenges and opportunities to grow. I believe that staying up-to-date with the latest industry trends and best practices is crucial to delivering high-quality software products. I enjoy collaborating with other developers and stakeholders to create innovative solutions that solve real-world problems.
   <br>
   Building backend with Python, Django, FastAPI, Django Rest Framework, Firebase Authentication, Node js, Express Js, MongoDB, SQL, PostgreSQL.
 
@@ -220,4 +226,4 @@ Developer Bootcamp</a><br>
 </details>
 <!-- Summary end -->
 
-If you would like to have my help with your team and product, feel free to contact me. 🤓
+If you would like to have my help with your team and product, feel free to reach out and let's build something amazing together!. 🤓

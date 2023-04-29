@@ -159,6 +159,7 @@ Developer Bootcamp</a><br>
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerizing a Node.js Application from Scratch](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
 - [How I Build ERP Software With Django](https://dev.to/hossainchisty/how-i-build-erp-software-with-django-2p23)
 <!-- BLOG-POST-LIST:END -->
 

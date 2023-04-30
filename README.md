@@ -162,10 +162,8 @@ Developer Bootcamp</a><br>
 - [Dockerizing a Node.js Application from Scratch](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
 - [How I Build ERP Software With Django](https://dev.to/hossainchisty/how-i-build-erp-software-with-django-2p23)
 <!-- BLOG-POST-LIST:END -->
-
 <!-- HASHNODE:START -->
 - [CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions](https://hossainchisty.hashnode.dev/cicd-pipeline-setup-building-and-pushing-docker-images-to-docker-hub-using-github-actions)
-- [Dockerizing a Node.js Application from Scratch](https://hossainchisty.hashnode.dev/dockerizing-a-nodejs-application-from-scratch)
 <!-- HASHNODE:END -->
 
 <!-- Connect start -->

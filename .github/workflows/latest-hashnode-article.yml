@@ -1,4 +1,4 @@
-name: Latest Hashnode blog post workflow
+name: Latest Hashnode blog posts
 on:
   schedule:
     # Runs every day

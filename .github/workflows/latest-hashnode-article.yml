@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "HASHNODE"
-          feed_list: "https://harshcool.hashnode.dev/rss.xml"
+          feed_list: "https://hossainchisty.hashnode.dev/rss.xml"
           commit_message: "Update hashnode.com blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}

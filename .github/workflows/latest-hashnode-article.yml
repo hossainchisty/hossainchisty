@@ -3,21 +3,16 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */24 * * *' # Runs Every 24 Hours
-
 jobs:
-  update_blogs:
-    name: "✔ Update Blogs"
-    runs-on: ubuntu-latest
+  update-readme-with-blog:
+    name: 💻 Update repo README with latest blog posts
+    runs-on: 🐧 ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+      - uses: actions/checkout@v2
+      - name: 📝 Update Hashnode.com blog posts
+        uses: hossainchisty/update-hashnode-blog@v1.0
         with:
-          USERNAME: 'hossainchisty' # Hashnode Username
-          COUNT: 2 # MAX Visisble
-          STYLE: "blog-left"
-          BLOG_URL: "https://hossainchisty.hashnode.dev/"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "HASHNODE"
+          feed_list: "https://hossainchisty.hashnode.dev/rss.xml"
+          commit_message: "📝 Update hashnode.com blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

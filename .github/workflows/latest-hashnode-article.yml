@@ -5,16 +5,19 @@ on:
     - cron: '0 */24 * * *' # Runs Every 24 Hours
 
 jobs:
-  update-readme-with-blog:
-    name: 📥 Update repo README with latest blog posts
+  update_blogs:
+    name: "✔ Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          comment_tag_name: "HASHNODE"
-          feed_list: "https://hossainchisty.hashnode.dev/rss.xml"
-          commit_message: "Update hashnode.com blog posts"
+          USERNAME: 'hossainchisty' # Hashnode Username
           COUNT: 2 # MAX Visisble
           STYLE: "blog-left"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          BLOG_URL: "https://hossainchisty.hashnode.dev/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

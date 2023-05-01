@@ -164,16 +164,11 @@ Developer Bootcamp</a><br>
 <p align="left">
 <a href="https://hossainchisty.hashnode.dev//cicd-pipeline-setup-building-and-pushing-docker-images-to-docker-hub-using-github-actions" title="CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HSACbYjZsqQ/upload/44796f0519f04d5cc8d349937d44d4cc.jpeg" alt="CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions" width="250px" align="left" /></a>
 <a href="https://hossainchisty.hashnode.dev//cicd-pipeline-setup-building-and-pushing-docker-images-to-docker-hub-using-github-actions" title="CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions"><strong>CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions</strong></a>
-<br/> To automatically push a Docker image to Docker Hub using GitHub Actions, you can create a workflow with the following steps:
-
-Check out the repository: This step will check out the code from your repository.
-
-- name: Checkout code
-  uses: actions/che... </p> <br/> <br/>
+<br/> To automatically push a Docker image to Docker Hub using GitHub Actions, you can create a workflow with the following steps: </p> <br/> <br/>
 <p align="left">
 <a href="https://hossainchisty.hashnode.dev//dockerizing-a-nodejs-application-from-scratch" title="Dockerizing a Node.js Application from Scratch"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jOqJbvo1P9g/upload/61936f0b4c411c9549de8b2a223adeef.jpeg" alt="Dockerizing a Node.js Application from Scratch" width="250px" align="left" /></a>
 <a href="https://hossainchisty.hashnode.dev//dockerizing-a-nodejs-application-from-scratch" title="Dockerizing a Node.js Application from Scratch"><strong>Dockerizing a Node.js Application from Scratch</strong></a>
-<br/> Dockerizing a Node.js application can greatly simplify the deployment process and improve the scalability of your application. Docker is a containerization platform that allows you to package your application and its dependencies into a container, wh... </p> <br/> <br/>
+<br/> Dockerizing a Node.js application can greatly simplify the deployment process and improve the scalability of your application.</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- Connect start -->

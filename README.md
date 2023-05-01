@@ -160,8 +160,8 @@ Developer Bootcamp</a><br>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <!-- Connect start -->
 

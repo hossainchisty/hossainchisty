@@ -1,9 +1,9 @@
 name: 📚 Latest Hashnode blog posts
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 */24 * * *' # Runs Every 24 Hours
-
+    # Runs every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -11,12 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Update Hashnode.com blog posts
-        uses: "varunsridharan/action-hashnode-blog@1.1.1"
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          USERNAME: 'Hossainchisty' # Hashnode Username
-          COUNT: 2 # MAX Visisble
-          STYLE: "blog-left"
-          BLOG_URL: "https://hossainchisty.hashnode.dev/"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "HASHNODE"
+          feed_list: "https://hossainchisty.hashnode.dev/rss.xml"
+          commit_message: "Update hashnode.com blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

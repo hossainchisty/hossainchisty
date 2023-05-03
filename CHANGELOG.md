@@ -1,3 +1,12 @@
+## [2.3.1](https://github.com/hossainchisty/hossainchisty/compare/v2.3.0...v2.3.1) (2023-05-03)
+
+
+### Bug Fixes
+
+* Remove unused tools ([0cdc08a](https://github.com/hossainchisty/hossainchisty/commit/0cdc08acc81ea9cee94b01a86be481b3b11aa9ae))
+
+
+
 # [2.3.0](https://github.com/hossainchisty/hossainchisty/compare/v2.2.1...v2.3.0) (2023-05-03)
 
 
@@ -16,10 +25,6 @@
 
 
 # [2.1.0](https://github.com/hossainchisty/hossainchisty/compare/v2.0.0...v2.1.0) (2023-05-01)
-
-
-
-# [2.0.0](https://github.com/hossainchisty/hossainchisty/compare/v1.10.0...v2.0.0) (2023-03-22)
 
 
 

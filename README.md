@@ -20,9 +20,7 @@
 - Unit Test: Jest, Pytest framework
 - Experience in using API testing tools like Postman.
 <!-- - PostgreSQL, Redis, SQL (Experience: Enough to use on projects as required) -->
-<!-- - Celery, RabbitMQ (Experience: Enough to use on projects as required) -->
-<!-- - Nginx (Experience: Learning) -->
-<!-- - Elasticsearch (Experience: Learning) -->
+
 
 
 ### 👁‍🗨 Familiar 

@@ -16,7 +16,7 @@
 - Django Rest Framework (Experience: 2+ years)
 - Docker (Experience: Learning)
 - Kubernetes (Experience: Learning)
-- Git, Github, GitHub Actions
+- Git, Github, GitHub Actions, CircleCI 
 - Unit Test: Jest, Pytest framework
 - Experience in using API testing tools like Postman.
 <!-- - PostgreSQL, Redis, SQL (Experience: Enough to use on projects as required) -->

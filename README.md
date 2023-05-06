@@ -139,9 +139,9 @@ Developer Bootcamp</a><br>
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#2](https://github.com/LondheShubham153/CircleCi-python/issues/2) in [LondheShubham153/CircleCi-python](https://github.com/LondheShubham153/CircleCi-python)
-2. ❌ Closed PR [#35](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/35) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-3. 🎉 Merged PR [#5](https://github.com/hossainchisty/SME-Inventory-Management/pull/5) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-4. 🎉 Merged PR [#5](https://github.com/hossainchisty/Filmify/pull/5) in [hossainchisty/Filmify](https://github.com/hossainchisty/Filmify)
+2. 🗣 Commented on [#2](https://github.com/LondheShubham153/CircleCi-python/issues/2) in [LondheShubham153/CircleCi-python](https://github.com/LondheShubham153/CircleCi-python)
+3. ❌ Closed PR [#35](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/35) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+4. 🎉 Merged PR [#5](https://github.com/hossainchisty/SME-Inventory-Management/pull/5) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
 5. 🎉 Merged PR [#7](https://github.com/hossainchisty/Filmify/pull/7) in [hossainchisty/Filmify](https://github.com/hossainchisty/Filmify)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in

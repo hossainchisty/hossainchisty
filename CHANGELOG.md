@@ -1,3 +1,12 @@
+# [2.5.0](https://github.com/hossainchisty/hossainchisty/compare/v2.4.0...v2.5.0) (2023-05-08)
+
+
+### Features
+
+* Added new project 🎉 ([b66ed2e](https://github.com/hossainchisty/hossainchisty/commit/b66ed2e22036b306037fd44a18d1f2fb1c6a8f71))
+
+
+
 # [2.4.0](https://github.com/hossainchisty/hossainchisty/compare/v2.3.1...v2.4.0) (2023-05-06)
 
 
@@ -26,10 +35,6 @@
 
 
 ## [2.2.1](https://github.com/hossainchisty/hossainchisty/compare/v2.2.0...v2.2.1) (2023-05-03)
-
-
-
-# [2.2.0](https://github.com/hossainchisty/hossainchisty/compare/v2.1.0...v2.2.0) (2023-05-03)
 
 
 

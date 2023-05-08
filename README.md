@@ -57,19 +57,19 @@ Developer Bootcamp</a><br>
       <td><a href="https://github.com/hossainchisty/Freshdesk-ERP-Platform" target="_blank">Freshdesk ERP Platform</a>
       </td>
       <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. It has also the Admin dashboard.<br> Technology : Python, Django, DRF,
-        PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> ⚡ 100+ stars, 40+ forks.
+        PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> Highlights: 100+ stars and 50+ forks 🐱‍🏍🔥
       </td>
     <tr>
     <!-- Freshdesk Product End -->
-     <!-- Real Estate Restaurant Management Start -->
+    <!-- Real Estate Restaurant Management Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Real-Estate-Restaurant-Management" target="_blank">Real Estate Restaurant Management</a></td>
       <td>Restaurant reservations are an arrangement guests make in advance to confirm a table for their party at a specified time. Promo code can be use for discounts.
         <br> Technology : NodeJS, Express, MongoDB, Docker, Github Actions, CI/CD.
       </td>
     </tr>
-  <!-- Real Estate Restaurant Management End -->
-  <!-- Task Management System Start -->
+    <!-- Real Estate Restaurant Management End -->
+    <!-- Task Management System Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Task-Tracking-Tool" target="_blank">Task Tracking</a></td>
       <td>Task tracking software is a tool that helps individuals or teams manage and monitor the progress of their tasks or projects. It allows users to create, assign, and prioritize tasks, set deadlines, track time, and collaborate with others. 
@@ -77,7 +77,7 @@ Developer Bootcamp</a><br>
       </td>
     </tr>
   <!-- Task Management System End -->
-    <!-- Multivendor Product Start -->
+  <!-- Multivendor Product Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Multi-Vendor-eCommerce" target="_blank">Multi Vendor Ecommerce</a>
       </td>
@@ -85,14 +85,14 @@ Developer Bootcamp</a><br>
         <br>Technology : Python, Django, Celery, Redis, Stripe, Cloudinary, Sentry-sdk, Docker.
       </td>
     </tr>
-    <!-- Multivendor Product End -->
-    <!-- SME Inventory Product Start -->
+   <!-- Multivendor Product End -->
+  <!-- SME Inventory Product Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/SME-Inventory-Management" target="_blank">SME Inventory
           Management</a></td>
       <td> SME(Small and Medium Enterprise) Inventory management refers to the process of ordering, storing, using, and selling a company's inventory.
         This includes the management of raw materials, components, and finished products and processing of such items.
-        <br> Technology : Python, Django, DRF, PostgreSQL, Docker, Github Actions.
+        <br> Technology : Python, Django, Jinja2, DRF, PostgreSQL.
       </td>
     </tr>
   <!-- SME Inventory Product End -->
@@ -116,18 +116,7 @@ Developer Bootcamp</a><br>
     </tr> -->
   <!-- Hospital Management Software Product End -->
   
-  <!-- I & E Management Product Start -->
-   <tr>
-      <td><a href="https://github.com/hossainchisty/Income-Expense-Management" target="_blank">Income & Expense
-          Management</a></td>
-      <td>Income & Expense Management System is an application that allows you to control your finances, you Will know
-        how much you spend.
-        <br> Technology : Python, Django, Cloudinary.
-      </td>
-    </tr>
-  <!-- I & E Management Product End -->
-
-  <!-- Abba Clan Start -->
+ <!-- Abba Clan Start -->
    <tr>
       <td><a href="http://abbaclan.herokuapp.com" target="_blank">Abba Clan</a></td>
       <td> Project : Abba Clan 

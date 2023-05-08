@@ -1,3 +1,12 @@
+## [2.5.1](https://github.com/hossainchisty/hossainchisty/compare/v2.5.0...v2.5.1) (2023-05-08)
+
+
+### Bug Fixes
+
+* Update README.md with new project link ([c1bebdd](https://github.com/hossainchisty/hossainchisty/commit/c1bebdd72cf9e911b85bd3f1633b010eaa5c4061))
+
+
+
 # [2.5.0](https://github.com/hossainchisty/hossainchisty/compare/v2.4.0...v2.5.0) (2023-05-08)
 
 
@@ -31,10 +40,6 @@
 ### Features
 
 * Update new tech ([0ef86cc](https://github.com/hossainchisty/hossainchisty/commit/0ef86cc003d1ae762175362874b7895fbdf612bc))
-
-
-
-## [2.2.1](https://github.com/hossainchisty/hossainchisty/compare/v2.2.0...v2.2.1) (2023-05-03)
 
 
 

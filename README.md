@@ -136,11 +136,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/hossainchisty/SME-Inventory-Management/pull/6) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-2. 🗣 Commented on [#2](https://github.com/LondheShubham153/CircleCi-python/issues/2) in [LondheShubham153/CircleCi-python](https://github.com/LondheShubham153/CircleCi-python)
-3. 🗣 Commented on [#2](https://github.com/LondheShubham153/CircleCi-python/issues/2) in [LondheShubham153/CircleCi-python](https://github.com/LondheShubham153/CircleCi-python)
-4. 🎉 Merged PR [#5](https://github.com/hossainchisty/SME-Inventory-Management/pull/5) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-5. 🎉 Merged PR [#7](https://github.com/hossainchisty/Filmify/pull/7) in [hossainchisty/Filmify](https://github.com/hossainchisty/Filmify)
+1. 🎉 Merged PR [#2](https://github.com/hossainchisty/Task-Tracking-Tool/pull/2) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+2. 💪 Opened PR [#2](https://github.com/hossainchisty/Task-Tracking-Tool/pull/2) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+3. 🎉 Merged PR [#1](https://github.com/hossainchisty/Task-Tracking-Tool/pull/1) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+4. 💪 Opened PR [#1](https://github.com/hossainchisty/Task-Tracking-Tool/pull/1) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+5. 🎉 Merged PR [#6](https://github.com/hossainchisty/SME-Inventory-Management/pull/6) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

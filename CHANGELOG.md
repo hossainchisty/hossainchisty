@@ -1,3 +1,12 @@
+# [2.7.0](https://github.com/hossainchisty/hossainchisty/compare/v2.6.0...v2.7.0) (2023-05-14)
+
+
+### Features
+
+* Added new backend tool ([29509d6](https://github.com/hossainchisty/hossainchisty/commit/29509d6109d6d5763610cf0d0653aa63f1676ddb))
+
+
+
 # [2.6.0](https://github.com/hossainchisty/hossainchisty/compare/v2.5.1...v2.6.0) (2023-05-08)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added new tools 🎉 ([9d22e56](https://github.com/hossainchisty/hossainchisty/commit/9d22e569cecbf6246ba41281f5bfd831965ce7a8))
-
-
-
-## [2.3.1](https://github.com/hossainchisty/hossainchisty/compare/v2.3.0...v2.3.1) (2023-05-03)
-
-
-### Bug Fixes
-
-* Remove unused tools ([0cdc08a](https://github.com/hossainchisty/hossainchisty/commit/0cdc08acc81ea9cee94b01a86be481b3b11aa9ae))
 
 
 

@@ -1,3 +1,4 @@
+name: 🙋‍♂️ Greetings
 on:
   fork:
   push:

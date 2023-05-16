@@ -1,3 +1,12 @@
+## [2.7.1](https://github.com/hossainchisty/hossainchisty/compare/v2.7.0...v2.7.1) (2023-05-16)
+
+
+### Bug Fixes
+
+* Update greetings.yml ([4703899](https://github.com/hossainchisty/hossainchisty/commit/4703899f12c2eeedbabcb46df9dc7ea78354e893))
+
+
+
 # [2.7.0](https://github.com/hossainchisty/hossainchisty/compare/v2.6.0...v2.7.0) (2023-05-14)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added new project 🎉 ([b66ed2e](https://github.com/hossainchisty/hossainchisty/commit/b66ed2e22036b306037fd44a18d1f2fb1c6a8f71))
-
-
-
-# [2.4.0](https://github.com/hossainchisty/hossainchisty/compare/v2.3.1...v2.4.0) (2023-05-06)
-
-
-### Features
-
-* Added new tools 🎉 ([9d22e56](https://github.com/hossainchisty/hossainchisty/commit/9d22e569cecbf6246ba41281f5bfd831965ce7a8))
 
 
 

@@ -136,11 +136,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#38](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/38) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-2. 💪 Opened PR [#38](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/38) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-3. 🎉 Merged PR [#37](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/37) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-4. 💪 Opened PR [#37](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/37) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-5. 🎉 Merged PR [#36](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/36) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+1. 🎉 Merged PR [#39](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/39) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+2. 💪 Opened PR [#39](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/39) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+3. ❌ Closed PR [#38](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/38) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+4. 💪 Opened PR [#38](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/38) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+5. 🎉 Merged PR [#37](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/37) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

@@ -1,3 +1,12 @@
+## [2.8.1](https://github.com/hossainchisty/hossainchisty/compare/v2.8.0...v2.8.1) (2023-05-19)
+
+
+### Bug Fixes
+
+* Reorder tech stack ([eee3e61](https://github.com/hossainchisty/hossainchisty/commit/eee3e615238508fb79a2977c5da9c891eef58d83))
+
+
+
 # [2.8.0](https://github.com/hossainchisty/hossainchisty/compare/v2.7.1...v2.8.0) (2023-05-19)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Update README.md ([640e707](https://github.com/hossainchisty/hossainchisty/commit/640e7073c74698d3f6a1ee0f39b7b3ca4991d0d9))
-
-
-
-## [2.5.1](https://github.com/hossainchisty/hossainchisty/compare/v2.5.0...v2.5.1) (2023-05-08)
-
-
-### Bug Fixes
-
-* Update README.md with new project link ([c1bebdd](https://github.com/hossainchisty/hossainchisty/commit/c1bebdd72cf9e911b85bd3f1633b010eaa5c4061))
 
 
 

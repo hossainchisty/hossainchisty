@@ -1,3 +1,12 @@
+# [2.8.0](https://github.com/hossainchisty/hossainchisty/compare/v2.7.1...v2.8.0) (2023-05-19)
+
+
+### Features
+
+* Added Prisma Update README.md ([59501d2](https://github.com/hossainchisty/hossainchisty/commit/59501d2115463d49b63d6fd6b8aa6f8eb73ef621))
+
+
+
 ## [2.7.1](https://github.com/hossainchisty/hossainchisty/compare/v2.7.0...v2.7.1) (2023-05-16)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Update README.md with new project link ([c1bebdd](https://github.com/hossainchisty/hossainchisty/commit/c1bebdd72cf9e911b85bd3f1633b010eaa5c4061))
-
-
-
-# [2.5.0](https://github.com/hossainchisty/hossainchisty/compare/v2.4.0...v2.5.0) (2023-05-08)
-
-
-### Features
-
-* Added new project 🎉 ([b66ed2e](https://github.com/hossainchisty/hossainchisty/commit/b66ed2e22036b306037fd44a18d1f2fb1c6a8f71))
 
 
 

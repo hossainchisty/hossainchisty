@@ -136,11 +136,11 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/hossainchisty/Django-Blog-App/pull/5) in [hossainchisty/Django-Blog-App](https://github.com/hossainchisty/Django-Blog-App)
-2. 🎉 Merged PR [#7](https://github.com/hossainchisty/Task-Tracking-Tool/pull/7) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
-3. 💪 Opened PR [#7](https://github.com/hossainchisty/Task-Tracking-Tool/pull/7) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
-4. ❗️ Opened issue [#5192](https://github.com/expressjs/express/issues/5192) in [expressjs/express](https://github.com/expressjs/express)
-5. 🎉 Merged PR [#39](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/39) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+1. 🎉 Merged PR [#8](https://github.com/hossainchisty/Task-Tracking-Tool/pull/8) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+2. 💪 Opened PR [#8](https://github.com/hossainchisty/Task-Tracking-Tool/pull/8) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+3. 🎉 Merged PR [#5](https://github.com/hossainchisty/Django-Blog-App/pull/5) in [hossainchisty/Django-Blog-App](https://github.com/hossainchisty/Django-Blog-App)
+4. 🎉 Merged PR [#7](https://github.com/hossainchisty/Task-Tracking-Tool/pull/7) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+5. 💪 Opened PR [#7](https://github.com/hossainchisty/Task-Tracking-Tool/pull/7) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

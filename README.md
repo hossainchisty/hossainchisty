@@ -61,17 +61,17 @@ Developer Bootcamp</a><br>
       </td>
     <tr>
     <!-- Freshdesk Product End -->
-    <!-- Real Estate Restaurant Management Start -->
+    <!-- Foodie Real Estate Services Start -->
     <tr>
-      <td><a href="https://github.com/hossainchisty/Real-Estate-Restaurant-Management" target="_blank">Real Estate Restaurant Management</a></td>
+      <td><a href="https://github.com/hossainchisty/Foodie-Real-Estate-Services" target="_blank">Foodie Real Estate Services</a></td>
       <td>Restaurant reservations are an arrangement guests make in advance to confirm a table for their party at a specified time. Promo code can be use for discounts.
         <br> Technology : NodeJS, Express, MongoDB, Docker, Github Actions, CI/CD.
       </td>
     </tr>
-    <!-- Real Estate Restaurant Management End -->
+    <!-- Foodie Real Estate Services End -->
     <!-- Task Management System Start -->
     <tr>
-      <td><a href="https://github.com/hossainchisty/Task-Tracking-Tool" target="_blank">Task Tracking</a></td>
+      <td><a href="https://github.com/hossainchisty/Task-Tracking-Tool" target="_blank">Task Tracking Tool</a></td>
       <td>Task Tracking Software helps individuals and teams manage tasks, monitor progress, and collaborate. Features include task creation, assignment, prioritization, deadline setting, time tracking, and collaboration. It also offers task history, pattern identification, and gamification with task completion badges for motivation and recognition. It streamlines task management and boosts productivity.
         <br> Technology : NodeJS, Express, MongoDB, Jest, Postman, Docker, Github Actions, CI/CD.
       </td>

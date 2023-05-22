@@ -1,3 +1,12 @@
+# [2.10.0](https://github.com/hossainchisty/hossainchisty/compare/v2.9.0...v2.10.0) (2023-05-22)
+
+
+### Features
+
+* Update README.md ([7f56e3c](https://github.com/hossainchisty/hossainchisty/commit/7f56e3ccb2e366c46561d009551afae08957aff9))
+
+
+
 # [2.9.0](https://github.com/hossainchisty/hossainchisty/compare/v2.8.1...v2.9.0) (2023-05-22)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Update greetings.yml ([4703899](https://github.com/hossainchisty/hossainchisty/commit/4703899f12c2eeedbabcb46df9dc7ea78354e893))
-
-
-
-# [2.7.0](https://github.com/hossainchisty/hossainchisty/compare/v2.6.0...v2.7.0) (2023-05-14)
-
-
-### Features
-
-* Added new backend tool ([29509d6](https://github.com/hossainchisty/hossainchisty/commit/29509d6109d6d5763610cf0d0653aa63f1676ddb))
 
 
 

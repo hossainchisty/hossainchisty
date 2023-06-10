@@ -136,10 +136,10 @@ Developer Bootcamp</a><br>
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#11](https://github.com/hossainchisty/Task-Tracking-Tool/issues/11) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
-2. ❗ Opened issue [#11](https://github.com/hossainchisty/Task-Tracking-Tool/issues/11) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
-3. ❗ Opened issue [#10](https://github.com/hossainchisty/Task-Tracking-Tool/issues/10) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
-4. 🗣 Commented on [#270](https://github.com/bchiang7/v4/issues/270) in [bchiang7/v4](https://github.com/bchiang7/v4)
+1. 🗣 Commented on [#86](https://github.com/bchiang7/v4/issues/86) in [bchiang7/v4](https://github.com/bchiang7/v4)
+2. 🔒 Closed issue [#11](https://github.com/hossainchisty/Task-Tracking-Tool/issues/11) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+3. ❗ Opened issue [#11](https://github.com/hossainchisty/Task-Tracking-Tool/issues/11) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
+4. ❗ Opened issue [#10](https://github.com/hossainchisty/Task-Tracking-Tool/issues/10) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
 5. 🗣 Commented on [#270](https://github.com/bchiang7/v4/issues/270) in [bchiang7/v4](https://github.com/bchiang7/v4)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in

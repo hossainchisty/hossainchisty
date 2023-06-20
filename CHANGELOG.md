@@ -1,3 +1,12 @@
+# [2.11.0](https://github.com/hossainchisty/hossainchisty/compare/v2.10.0...v2.11.0) (2023-06-20)
+
+
+### Features
+
+* Update Current Skill Status ([748f9fe](https://github.com/hossainchisty/hossainchisty/commit/748f9fe7d2ae96eca2976ee8a7996008d91dbb4e))
+
+
+
 # [2.10.0](https://github.com/hossainchisty/hossainchisty/compare/v2.9.0...v2.10.0) (2023-05-22)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added Prisma Update README.md ([59501d2](https://github.com/hossainchisty/hossainchisty/commit/59501d2115463d49b63d6fd6b8aa6f8eb73ef621))
-
-
-
-## [2.7.1](https://github.com/hossainchisty/hossainchisty/compare/v2.7.0...v2.7.1) (2023-05-16)
-
-
-### Bug Fixes
-
-* Update greetings.yml ([4703899](https://github.com/hossainchisty/hossainchisty/commit/4703899f12c2eeedbabcb46df9dc7ea78354e893))
 
 
 

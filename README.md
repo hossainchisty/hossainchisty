@@ -10,7 +10,10 @@
 - ⚡ Fun fact one of my hobbies is taking beautiful photographs here is my contribution on [Unsplash](https://unsplash.com/@hossainchisty).
 
 ### 💪 Skills & Technologies
-
+- Node.js (Experience: 6 months+)
+- Express.js (Experience: 6 months+)
+- MongoDB (Experience: 6 months+)
+- React (Experience: Learning)
 - Python (Experience: 2+ years)
 - Django (Experience: 2+ years)
 - Django Rest Framework (Experience: 2+ years)

@@ -1,3 +1,12 @@
+# [2.12.0](https://github.com/hossainchisty/hossainchisty/compare/v2.11.0...v2.12.0) (2023-06-23)
+
+
+### Features
+
+* Update README.md ([12f4909](https://github.com/hossainchisty/hossainchisty/commit/12f4909a9f247f7f10e0fcaef88f838849fb74e1))
+
+
+
 # [2.11.0](https://github.com/hossainchisty/hossainchisty/compare/v2.10.0...v2.11.0) (2023-06-20)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * Reorder tech stack ([eee3e61](https://github.com/hossainchisty/hossainchisty/commit/eee3e615238508fb79a2977c5da9c891eef58d83))
-
-
-
-# [2.8.0](https://github.com/hossainchisty/hossainchisty/compare/v2.7.1...v2.8.0) (2023-05-19)
-
-
-### Features
-
-* Added Prisma Update README.md ([59501d2](https://github.com/hossainchisty/hossainchisty/commit/59501d2115463d49b63d6fd6b8aa6f8eb73ef621))
 
 
 

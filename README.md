@@ -1,15 +1,17 @@
 ### Hey! I'm Hossain Chisty
 
-- 💼 As a Self-taught and highly motivated with a strong foundation in back end development, I am actively seeking new and challenging job opportunities to expand my skill set and knowledge base. I am excited to collaborate with a dynamic team of engineers on challenging and impactful projects, and contribute my expertise to a team that values innovation and growth.
-- 🛠️ My tech stack is Node, Express, Python, Django, MongoDB, PostgreSQL.
-- 🦾 Getting better at: Python, Javascript, Datastructure & Algorithms.
-- 🌱 I’m currently learning MERN Stack.
-- 🤔 Exploring: Onion Architecture, Micro-service Architecture
-- 👀 I’m interested in Backend and DevOps.
-- 🔗 Check out my work and connect with me at [https://chisty.netlify.app](https://chisty.netlify.app/)
-- ⚡ Fun fact one of my hobbies is taking beautiful photographs here is my contribution on [Unsplash](https://unsplash.com/@hossainchisty).
+- 💼 I am a self-taught and highly motivated software engineer specializing in backend development. My passion lies in building robust and scalable solutions, consistently delivering top-notch, scalable, and maintainable code.
+- 🛠️ My tech stack includes Node, Express, Python, Django, MongoDB, and PostgreSQL. These tools enable me to create efficient and reliable applications.
+- 🦾 I am continuously enhancing my skills in Python, JavaScript, and Data Structures & Algorithms, striving for excellence in every aspect.
+- 🌱 Currently, I am mastering the MERN Stack, further expanding my proficiency in modern web development technologies.
+- 🤔 Exploring the fascinating realm of Microservice Architecture excites me, as I actively seek new ways to architect scalable and resilient systems.
+- 👀 I have a keen interest in both Backend development and DevOps practices.
+- 🔗 Feel free to explore my work and connect with me at https://chisty.netlify.app. I would be delighted to discuss potential opportunities.
+- ⚡ Fun fact: Apart from coding, I find joy in capturing breathtaking moments through photography. Check out my contributions on [Unsplash](https://unsplash.com/@hossainchisty) to glimpse my artistic side.
 
 ### 💪 Skills & Technologies
+- JavaScript (Experience: <1 year)
+- TypeScript (Experience: Learning)
 - Node.js (Experience: 6 months+)
 - Express.js (Experience: 6 months+)
 - MongoDB (Experience: 6 months+)
@@ -20,7 +22,7 @@
 - Docker (Experience: Learning)
 - Kubernetes (Experience: Learning)
 - Git, Github, GitHub Actions, CircleCI 
-- Unit Test: Jest, Pytest framework
+- Unit Test: Jest, superset, Pytest framework
 - Experience in using API testing tools like Postman.
 <!-- - PostgreSQL, Redis, SQL (Experience: Enough to use on projects as required) -->
 

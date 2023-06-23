@@ -61,13 +61,6 @@
 - Micro-service architecture
 - Automating development workflows and deployment pipelines
 
-### 📘 Certification
-
-↪️ <a href="https://drive.google.com/file/d/1mvyjIoWzn59Df_kCNmbljzztrxhXswx8/view?usp=sharing" target="_blank">AWS Cloud Practitioner Essentials</a><br>
-
-↪️ <a href="https://media-exp1.licdn.com/dms/image/D562DAQHXlE8URW68Iw/profile-treasury-image-shrink_800_800/0/1662803268423?e=1666173600&v=beta&t=_8zDO4nnZZ7pEkNdhxi0hVt0KIpr7PK1zgbb9pIOC94" target="_blank">Python And Django Web
-Developer Bootcamp</a><br>
-<br>
 
 ### My favorite projects 💻
 
@@ -88,41 +81,42 @@ Developer Bootcamp</a><br>
       </td>
     <tr>
     <!-- Multi vendor eCommerce Platform End -->
-    <!-- Freshdesk Product Start -->
-    <tr>
-      <td><a href="https://github.com/hossainchisty/Freshdesk-ERP-Platform" target="_blank">Freshdesk ERP Platform</a>
-      </td>
-      <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. It has also the Admin dashboard.<br> Technology : Python, Django, DRF,
-        PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> <b>Highlights:</b> 100+ stars and 50+ forks 🐱‍🏍🔥
-      </td>
-    <tr>
-    <!-- Freshdesk Product End -->
-    <!-- Foodie Real Estate Services Start -->
-    <tr>
-      <td><a href="https://github.com/hossainchisty/Foodie-Real-Estate-Services" target="_blank">Foodie Real Estate Services</a></td>
-      <td>Restaurant reservations are an arrangement guests make in advance to confirm a table for their party at a specified time. Promo code can be use for discounts.
-        <br> Technology : NodeJS, Express, MongoDB, Docker, Github Actions, CI/CD.
-      </td>
-    </tr>
-    <!-- Foodie Real Estate Services End -->
-    <!-- Task Management System Start -->
+    <!-- Task Tracking Tool Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Task-Tracking-Tool" target="_blank">Task Tracking Tool</a></td>
       <td>Task Tracking Software helps individuals and teams manage tasks, monitor progress, and collaborate. Features include task creation, assignment, prioritization, deadline setting, time tracking, and collaboration. It also offers task history, pattern identification, and gamification with task completion badges for motivation and recognition. It streamlines task management and boosts productivity.
         <br> Technology : NodeJS, Express, MongoDB, Jest, Postman, Docker, Github Actions, CI/CD.
       </td>
     </tr>
-  <!-- Task Management System End -->
-  <!-- SME Inventory Product Start -->
-    <tr>
-      <td><a href="https://github.com/hossainchisty/SME-Inventory-Management" target="_blank">SME Inventory
-          Management</a></td>
-      <td> SME(Small and Medium Enterprise) Inventory management refers to the process of ordering, storing, using, and selling a company's inventory.
-        This includes the management of raw materials, components, and finished products and processing of such items.
-        <br> Technology : Python, Django, Jinja2, DRF, PostgreSQL.
-      </td>
-    </tr>
-  <!-- SME Inventory Product End -->
+  <!-- Task Tracking Tool End -->
+  <!-- Foodie Real Estate Services Start -->
+  <tr>
+    <td><a href="https://github.com/hossainchisty/Foodie-Real-Estate-Services" target="_blank">Foodie Real Estate Services</a></td>
+    <td>Restaurant reservations are an arrangement guests make in advance to confirm a table for their party at a specified time. Promo code can be use for discounts.
+      <br> Technology : NodeJS, Express, MongoDB, Docker, Github Actions, CI/CD.
+    </td>
+  </tr>
+  <!-- Foodie Real Estate Services End -->
+  <!-- Freshdesk Product Start -->
+  <tr>
+    <td><a href="https://github.com/hossainchisty/Freshdesk-ERP-Platform" target="_blank">Freshdesk ERP Platform</a>
+    </td>
+    <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. It has also the Admin dashboard.<br> Technology : Python, Django, DRF,
+      PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> <b>Highlights:</b> 100+ stars and 50+ forks 
+    </td>
+  <tr>
+  <!-- Freshdesk Product End -->
+
+<!-- SME Inventory Product Start -->
+  <tr>
+    <td><a href="https://github.com/hossainchisty/SME-Inventory-Management" target="_blank">SME Inventory
+        Management</a></td>
+    <td> SME(Small and Medium Enterprise) Inventory management refers to the process of ordering, storing, using, and selling a company's inventory.
+      This includes the management of raw materials, components, and finished products and processing of such items.
+      <br> Technology : Python, Django, Jinja2, DRF, PostgreSQL.
+    </td>
+  </tr>
+<!-- SME Inventory Product End -->
  
 
   <!-- HealthMart Pharmacy Management Product Start -->

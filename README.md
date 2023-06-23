@@ -8,7 +8,7 @@
 - 🌱 Currently, I am mastering the MERN Stack, further expanding my proficiency in modern web development technologies.
 - 🤔 Exploring the fascinating realm of Microservice Architecture excites me, as I actively seek new ways to architect scalable and resilient systems.
 - 👀 I have a keen interest in both Backend development and DevOps practices.
-- 🔗 Feel free to explore my work and connect with me at https://chisty.netlify.app. I would be delighted to discuss potential opportunities.
+- 🔗 Discover my work and connect with me at https://chisty.netlify.app. Let's discuss exciting possibilities!
 - ⚡ Fun fact: Apart from coding, I find joy in capturing breathtaking moments through photography. Check out my contributions on [Unsplash](https://unsplash.com/@hossainchisty) to glimpse my artistic side.
 
 ### 💪 Skills & Technologies
@@ -80,6 +80,14 @@ Developer Bootcamp</a><br>
     </tr>
   </thead>
   <tbody>
+    <!-- Multi vendor eCommerce Platform Start -->
+    <tr>
+      <td><a href="https://github.com/hossainchisty/eCommerce-Backend-API" target="_blank">eCommerce Platform</a>
+      </td>
+      <td>Streamlined e-commerce experience for customers, sellers, and admins on a user-friendly platform.<br> Technology :  Node, Express, MongoDB,Cloudinary, Postman, Trello, Github Actions, Docker, Vercel. <br> 
+      </td>
+    <tr>
+    <!-- Multi vendor eCommerce Platform End -->
     <!-- Freshdesk Product Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/Freshdesk-ERP-Platform" target="_blank">Freshdesk ERP Platform</a>
@@ -105,15 +113,6 @@ Developer Bootcamp</a><br>
       </td>
     </tr>
   <!-- Task Management System End -->
-  <!-- Multivendor Product Start -->
-    <tr>
-      <td><a href="https://github.com/hossainchisty/Multi-Vendor-eCommerce" target="_blank">Multi Vendor Ecommerce</a>
-      </td>
-      <td>Multi Vendor Ecommerce Application With RBAC Feature
-        <br>Technology : Python, Django, Celery, Redis, Stripe, Cloudinary, Sentry-sdk, Docker.
-      </td>
-    </tr>
-   <!-- Multivendor Product End -->
   <!-- SME Inventory Product Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/SME-Inventory-Management" target="_blank">SME Inventory
@@ -145,7 +144,7 @@ Developer Bootcamp</a><br>
   <!-- Hospital Management Software Product End -->
   
  <!-- Abba Clan Start -->
-   <tr>
+   <!-- <tr>
       <td><a href="http://abbaclan.herokuapp.com" target="_blank">Abba Clan</a></td>
       <td> Project : Abba Clan 
         <br> Role : Backend Developer
@@ -153,7 +152,7 @@ Developer Bootcamp</a><br>
         Loved Ones.
         <br> Technology : Python, Django, Django Rest Framework, React.
       </td>
-  </tr>
+  </tr> -->
   <!-- Abba Clan End -->
 
   </tbody>

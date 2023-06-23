@@ -1,3 +1,12 @@
+# [2.13.0](https://github.com/hossainchisty/hossainchisty/compare/v2.12.0...v2.13.0) (2023-06-23)
+
+
+### Features
+
+* Update Skills Sections ([099b9a3](https://github.com/hossainchisty/hossainchisty/commit/099b9a3c67d172044983b588146814ebaf1ca79d))
+
+
+
 # [2.12.0](https://github.com/hossainchisty/hossainchisty/compare/v2.11.0...v2.12.0) (2023-06-23)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Update README.md project into ([25923af](https://github.com/hossainchisty/hossainchisty/commit/25923af1fdd27a2ed1847e0801722f56824ff6f6))
-
-
-
-## [2.8.1](https://github.com/hossainchisty/hossainchisty/compare/v2.8.0...v2.8.1) (2023-05-19)
-
-
-### Bug Fixes
-
-* Reorder tech stack ([eee3e61](https://github.com/hossainchisty/hossainchisty/commit/eee3e615238508fb79a2977c5da9c891eef58d83))
 
 
 

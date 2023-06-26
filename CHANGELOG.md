@@ -1,3 +1,12 @@
+# [2.16.0](https://github.com/hossainchisty/hossainchisty/compare/v2.15.0...v2.16.0) (2023-06-26)
+
+
+### Features
+
+* Update about me ([66ccdb7](https://github.com/hossainchisty/hossainchisty/commit/66ccdb7eb65426d0562637e5d205a863c4ff451a))
+
+
+
 # [2.15.0](https://github.com/hossainchisty/hossainchisty/compare/v2.14.0...v2.15.0) (2023-06-23)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Update README.md ([12f4909](https://github.com/hossainchisty/hossainchisty/commit/12f4909a9f247f7f10e0fcaef88f838849fb74e1))
-
-
-
-# [2.11.0](https://github.com/hossainchisty/hossainchisty/compare/v2.10.0...v2.11.0) (2023-06-20)
-
-
-### Features
-
-* Update Current Skill Status ([748f9fe](https://github.com/hossainchisty/hossainchisty/commit/748f9fe7d2ae96eca2976ee8a7996008d91dbb4e))
 
 
 

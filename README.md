@@ -157,11 +157,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#41](https://github.com/hossainchisty/eCommerce-Backend-API/pull/41) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
-2. 💪 Opened PR [#41](https://github.com/hossainchisty/eCommerce-Backend-API/pull/41) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
-3. 🎉 Merged PR [#40](https://github.com/hossainchisty/eCommerce-Backend-API/pull/40) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
-4. 💪 Opened PR [#40](https://github.com/hossainchisty/eCommerce-Backend-API/pull/40) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
-5. 🎉 Merged PR [#39](https://github.com/hossainchisty/eCommerce-Backend-API/pull/39) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
+1. 🎉 Merged PR [#42](https://github.com/hossainchisty/eCommerce-Backend-API/pull/42) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
+2. 💪 Opened PR [#42](https://github.com/hossainchisty/eCommerce-Backend-API/pull/42) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
+3. 🎉 Merged PR [#41](https://github.com/hossainchisty/eCommerce-Backend-API/pull/41) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
+4. 💪 Opened PR [#41](https://github.com/hossainchisty/eCommerce-Backend-API/pull/41) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
+5. 🎉 Merged PR [#40](https://github.com/hossainchisty/eCommerce-Backend-API/pull/40) in [hossainchisty/eCommerce-Backend-API](https://github.com/hossainchisty/eCommerce-Backend-API)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

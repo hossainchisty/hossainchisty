@@ -180,11 +180,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HASHNODE:START -->
+- [Boost Your API&#39;s Performance: 5 Expert Tricks You Need to Try](https://hossainchisty.hashnode.dev/boost-your-apis-performance-5-expert-tricks-you-need-to-try)
 - [Is Your Node.js Backend at Risk? Discover the Essential Security Checklist!](https://hossainchisty.hashnode.dev/is-your-nodejs-backend-at-risk-discover-the-essential-security-checklist)
 - [Unlocking Flexibility and Maintainability with Dependency Injection in JavaScript](https://hossainchisty.hashnode.dev/unlocking-flexibility-and-maintainability-with-dependency-injection-in-javascript)
 - [Step-by-Step Guide: Building a Node.js App with CircleCI Configurations for Efficient Continuous Integration and Deployment](https://hossainchisty.hashnode.dev/step-by-step-guide-building-a-nodejs-app-with-circleci-configurations-for-efficient-continuous-integration-and-deployment)
 - [10 Reasons Why Docker is Essential for Modern Software Development](https://hossainchisty.hashnode.dev/10-reasons-why-docker-is-essential-for-modern-software-development)
-- [CI/CD pipeline setup: Building and pushing Docker images to Docker Hub using GitHub Actions](https://hossainchisty.hashnode.dev/cicd-pipeline-setup-building-and-pushing-docker-images-to-docker-hub-using-github-actions)
 <!-- HASHNODE:END -->
 
 

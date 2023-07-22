@@ -1,3 +1,12 @@
+# [2.19.0](https://github.com/hossainchisty/hossainchisty/compare/v2.18.0...v2.19.0) (2023-07-22)
+
+
+### Features
+
+* Added top language ([727bf54](https://github.com/hossainchisty/hossainchisty/commit/727bf540bac46374e5a1b6f872d9856208f06312))
+
+
+
 # [2.18.0](https://github.com/hossainchisty/hossainchisty/compare/v2.17.0...v2.18.0) (2023-07-22)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Update about me ([66ccdb7](https://github.com/hossainchisty/hossainchisty/commit/66ccdb7eb65426d0562637e5d205a863c4ff451a))
-
-
-
-# [2.15.0](https://github.com/hossainchisty/hossainchisty/compare/v2.14.0...v2.15.0) (2023-06-23)
-
-
-### Features
-
-* Refactor readme ([9db1a5b](https://github.com/hossainchisty/hossainchisty/commit/9db1a5ba1ff12908b3b1b5cd6f79dc5a6d28d3d0))
 
 
 

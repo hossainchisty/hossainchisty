@@ -1,3 +1,12 @@
+# [2.17.0](https://github.com/hossainchisty/hossainchisty/compare/v2.16.1...v2.17.0) (2023-07-22)
+
+
+### Features
+
+* Added github trophy ([951369c](https://github.com/hossainchisty/hossainchisty/commit/951369c690046ba2625df1c02bed77d8ecd1ea10))
+
+
+
 ## [2.16.1](https://github.com/hossainchisty/hossainchisty/compare/v2.16.0...v2.16.1) (2023-06-26)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Update Project Sections ([1cf779f](https://github.com/hossainchisty/hossainchisty/commit/1cf779f38fb0536fedfe367c7188ba9f9695d013))
-
-
-
-# [2.13.0](https://github.com/hossainchisty/hossainchisty/compare/v2.12.0...v2.13.0) (2023-06-23)
-
-
-### Features
-
-* Update Skills Sections ([099b9a3](https://github.com/hossainchisty/hossainchisty/commit/099b9a3c67d172044983b588146814ebaf1ca79d))
 
 
 

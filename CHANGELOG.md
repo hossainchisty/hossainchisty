@@ -1,3 +1,12 @@
+# [2.18.0](https://github.com/hossainchisty/hossainchisty/compare/v2.17.0...v2.18.0) (2023-07-22)
+
+
+### Features
+
+* Added Productivity Stats ([0b969f3](https://github.com/hossainchisty/hossainchisty/commit/0b969f3a6a971dde06cefd9fdca023a7d6c5bdcf))
+
+
+
 # [2.17.0](https://github.com/hossainchisty/hossainchisty/compare/v2.16.1...v2.17.0) (2023-07-22)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Refactor readme ([9db1a5b](https://github.com/hossainchisty/hossainchisty/commit/9db1a5ba1ff12908b3b1b5cd6f79dc5a6d28d3d0))
-
-
-
-# [2.14.0](https://github.com/hossainchisty/hossainchisty/compare/v2.13.0...v2.14.0) (2023-06-23)
-
-
-### Features
-
-* Update Project Sections ([1cf779f](https://github.com/hossainchisty/hossainchisty/commit/1cf779f38fb0536fedfe367c7188ba9f9695d013))
 
 
 

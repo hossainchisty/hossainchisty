@@ -1,3 +1,12 @@
+# [2.20.0](https://github.com/hossainchisty/hossainchisty/compare/v2.19.0...v2.20.0) (2023-08-25)
+
+
+### Features
+
+* Added dev skills modern icon ([c697b41](https://github.com/hossainchisty/hossainchisty/commit/c697b4136cc6ffac8af144dc3b132d0ea822df84))
+
+
+
 # [2.19.0](https://github.com/hossainchisty/hossainchisty/compare/v2.18.0...v2.19.0) (2023-07-22)
 
 
@@ -31,15 +40,6 @@
 ### Performance Improvements
 
 * Change social media orders ([8f16533](https://github.com/hossainchisty/hossainchisty/commit/8f16533249c69299e9e5a5487c4a9c4aa7241ca1))
-
-
-
-# [2.16.0](https://github.com/hossainchisty/hossainchisty/compare/v2.15.0...v2.16.0) (2023-06-26)
-
-
-### Features
-
-* Update about me ([66ccdb7](https://github.com/hossainchisty/hossainchisty/commit/66ccdb7eb65426d0562637e5d205a863c4ff451a))
 
 
 

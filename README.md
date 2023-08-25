@@ -1,6 +1,6 @@
 ### Hey! I'm Hossain Chisty
 
-<!-- ?Note: I kindly request that you refrain from blindly copying the content of my readme file. I would like to ensure that the content remains original and tailored to my specific needs. -->
+<!-- ?Note: I kindly request that you refrain from blindly copying the content of my readme file. I would like to ensure that the content remains original and tailored to my specific needs. -->.
 
 - 💼 I am a self-taught and highly motivated software engineer specializing in backend development. My passion lies in building robust and scalable solutions, consistently delivering top-notch, scalable, and maintainable code.
 - 🛠️ My tech stack includes Node, Express, Python, Django, MongoDB, and PostgreSQL. These tools enable me to create efficient and reliable applications.
@@ -12,47 +12,7 @@
 - ⚡ Fun fact: Apart from coding, I find joy in capturing breathtaking moments through photography. Check out my contributions on [Unsplash](https://unsplash.com/@hossainchisty) to glimpse my artistic side.
 
 ### 💪 Skills & Technologies
-
-- Programming Languages: JavaScript, TypeScript, Python
-
-- Back-end Frameworks: Node.js, Express.js, Django, Django Rest Framework
-
-- Databases: MongoDB, PostgreSQL, Redis, SQL
-
-- Front-end Frameworks/Libraries: React
-
-- Containerization: Docker
-
-- Orchestration: Kubernetes
-
-- Collaboration Tools: Git, GitHub, Trello, Notion
-
-- API Testing Tool: Postman
-
-- CI/CD Tools: GitHub Actions, CircleCI
-
-- Unit Testing Frameworks: Jest (for JavaScript/TypeScript), Pytest (for Python)
-
-
-<!-- - JavaScript (Experience: <1 year)
-- TypeScript (Experience: Learning)
-- Node.js (Experience: 6 months+)
-- Express.js (Experience: 6 months+)
-- MongoDB (Experience: 6 months+)
-- React (Experience: Learning)
-- Python (Experience: 2+ years)
-- Django (Experience: 2+ years)
-- Django Rest Framework (Experience: 2+ years)
-- Docker (Experience: Learning)
-- Kubernetes (Experience: Learning)
-- Git, Github, GitHub Actions, CircleCI 
-- Unit Test: Jest, superset, Pytest framework
-- Experience in using API testing tools like Postman. 
-- PostgreSQL, Redis, SQL (Experience: Enough to use on projects as required)  -->
-
-
-<!-- ### 👁‍🗨 Familiar 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![NestJS Badge](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Prisma Badge](https://img.shields.io/badge/Prisma-59666C?style=for-the-badge&logo=Prisma&logoColor=white)](#) [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCB2B?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCB2B)](#) -->
+![](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,py,django,react,nextjs,redux,graphql,mongodb,postgresql,redis,jest,docker,kubernetes,githubactions,nginx,aws)
 
 ### 🧐 Area of Interest
 

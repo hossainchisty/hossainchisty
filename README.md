@@ -1,6 +1,6 @@
 ### Hey! I'm Hossain Chisty
 
-<!-- ?Note: I kindly request that you refrain from blindly copying the content of my readme file. I would like to ensure that the content remains original and tailored to my specific needs. -->.
+<!-- ?Note: I kindly request that you refrain from blindly copying the content of my readme file. I would like to ensure that the content remains original and tailored to my specific needs. -->
 
 - 💼 I am a self-taught and highly motivated software engineer specializing in backend development. My passion lies in building robust and scalable solutions, consistently delivering top-notch, scalable, and maintainable code.
 - 🛠️ My tech stack includes Node, Express, Python, Django, MongoDB, and PostgreSQL. These tools enable me to create efficient and reliable applications.

@@ -62,7 +62,7 @@
     <td><a href="https://github.com/hossainchisty/Freshdesk-ERP-Platform" target="_blank">Freshdesk ERP Platform</a>
     </td>
     <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. It has also the Admin dashboard.<br> Technology : Python, Django, DRF,
-      PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> <b>Highlights:</b> 100+ stars and 50+ forks 
+      PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> <b>Highlights:</b> 130+ stars and 60+ forks 
     </td>
   <tr>
   <!-- Freshdesk Product End -->

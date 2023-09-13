@@ -1,3 +1,12 @@
+# [2.21.0](https://github.com/hossainchisty/hossainchisty/compare/v2.20.0...v2.21.0) (2023-09-13)
+
+
+### Features
+
+* Added new project and added live links ([ee8b23b](https://github.com/hossainchisty/hossainchisty/commit/ee8b23bbc9960e37a46c5c1ad475edabd38c4c2a))
+
+
+
 # [2.20.0](https://github.com/hossainchisty/hossainchisty/compare/v2.19.0...v2.20.0) (2023-08-25)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added github trophy ([951369c](https://github.com/hossainchisty/hossainchisty/commit/951369c690046ba2625df1c02bed77d8ecd1ea10))
-
-
-
-## [2.16.1](https://github.com/hossainchisty/hossainchisty/compare/v2.16.0...v2.16.1) (2023-06-26)
-
-
-### Performance Improvements
-
-* Change social media orders ([8f16533](https://github.com/hossainchisty/hossainchisty/commit/8f16533249c69299e9e5a5487c4a9c4aa7241ca1))
 
 
 

@@ -37,7 +37,7 @@
     <tr>
       <td><a href="https://leafline.vercel.app/" target="_blank">LeafLine</a>
       </td>
-      <td>The LeafLine Book Store is an online platform that aims to provide a user-friendly and efficient way for customers to explore, purchase, and manage books, as well as track their reading and discover their next favorite book.<br> Technology :  React, RTK Query, Node, Express, MongoDB, Cloudinary, Postman, Github Actions, Docker, Vercel, Render. <br> 
+      <td>The LeafLine Book Store is an online platform that aims to provide a user-friendly and efficient way for customers to explore, purchase, and manage books, as well as track their reading and discover their next favorite book.<br> Technology :  React, RTK Query, Node, Express, MongoDB, Cloudinary, Postman, Stripe(Payment), Github Actions, Docker, Vercel, Render. <br> 
       </td>
     <tr>
     <!-- LeafLine End -->

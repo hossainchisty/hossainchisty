@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#16](https://github.com/hossainchisty/SME-Inventory-Management/pull/16) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-2. ❌ Closed PR [#15](https://github.com/hossainchisty/SME-Inventory-Management/pull/15) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-3. ❌ Closed PR [#14](https://github.com/hossainchisty/SME-Inventory-Management/pull/14) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-4. ❌ Closed PR [#12](https://github.com/hossainchisty/SME-Inventory-Management/pull/12) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-5. ❌ Closed PR [#10](https://github.com/hossainchisty/SME-Inventory-Management/pull/10) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
+1. 🎉 Merged PR [#1](https://github.com/hossainchisty/LeafLine-Server/pull/1) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+2. 💪 Opened PR [#1](https://github.com/hossainchisty/LeafLine-Server/pull/1) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+3. ❌ Closed PR [#16](https://github.com/hossainchisty/SME-Inventory-Management/pull/16) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
+4. ❌ Closed PR [#15](https://github.com/hossainchisty/SME-Inventory-Management/pull/15) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
+5. ❌ Closed PR [#14](https://github.com/hossainchisty/SME-Inventory-Management/pull/14) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

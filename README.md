@@ -4,15 +4,15 @@
 
 - 💼 I am a self-taught and highly motivated software engineer specializing in backend development. My passion lies in building robust and scalable solutions, consistently delivering top-notch, scalable, and maintainable code.
 - 🛠️ My tech stack includes Node, Express, Python, Django, MongoDB, and PostgreSQL. These tools enable me to create efficient and reliable applications.
-- 🦾 I am continuously enhancing my skills in Python, JavaScript, and Data Structures & Algorithms, striving for excellence in every aspect.
+- 🦾 I am continuously enhancing my skills in backend, striving for excellence in every aspect.
 - 🌱 Currently, I am mastering the MERN Stack, further expanding my proficiency in modern web development technologies.
-- 🤔 Exploring the fascinating realm of Microservice Architecture excites me, as I actively seek new ways to architect scalable and resilient systems.
+- 🤔 Exploring about clean architecture, Microservices, System Design, DSA.
 - 👀 I have a keen interest in both Backend development and DevOps practices.
 - 🔗 Discover my work and connect with me at https://chisty.netlify.app. Let's discuss exciting possibilities!
 - ⚡ Fun fact: Apart from coding, I find joy in capturing breathtaking moments through photography. Check out my contributions on [Unsplash](https://unsplash.com/@hossainchisty) to glimpse my artistic side.
 
 ### 💪 Skills & Technologies
-![](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,py,django,react,nextjs,redux,graphql,mongodb,postgresql,redis,jest,docker,kubernetes,githubactions,nginx,aws)
+![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,react,nextjs,redux,prisma,mongodb,sequelize,postgresql,redis,jest,docker,kubernetes,githubactions)
 
 ### 🧐 Area of Interest
 

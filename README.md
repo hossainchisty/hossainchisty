@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/hossainchisty/Task-Tracking-Tool/pull/12) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
-2. 🎉 Merged PR [#16](https://github.com/hossainchisty/Task-Tracking-Tool/pull/16) in [hossainchisty/Task-Tracking-Tool](https://github.com/hossainchisty/Task-Tracking-Tool)
-3. 🗣 Commented on [#7](https://github.com/abhishhh1/Windows-Activator/issues/7#issuecomment-1751342908) in [abhishhh1/Windows-Activator](https://github.com/abhishhh1/Windows-Activator)
-4. 🗣 Commented on [#7](https://github.com/abhishhh1/Windows-Activator/issues/7#issuecomment-1751336943) in [abhishhh1/Windows-Activator](https://github.com/abhishhh1/Windows-Activator)
-5. 🔒 Closed issue [#15](https://github.com/hossainchisty/LeafLine-Server/issues/15) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+1. 🎉 Merged PR [#16](https://github.com/hossainchisty/LeafLine-Server/pull/16) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+2. 🎉 Merged PR [#17](https://github.com/hossainchisty/LeafLine-Server/pull/17) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+3. 💪 Opened PR [#17](https://github.com/hossainchisty/LeafLine-Server/pull/17) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+4. 💪 Opened PR [#16](https://github.com/hossainchisty/LeafLine-Server/pull/16) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+5. 🎉 Merged PR [#8](https://github.com/hossainchisty/LeafLine-Client/pull/8) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

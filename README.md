@@ -2,8 +2,8 @@
 
 <!-- ?Note: I kindly request that you refrain from blindly copying the content of my readme file. I would like to ensure that the content remains original and tailored to my specific needs. -->
 
-- 💼 I am a self-taught and highly motivated software engineer specializing in backend development. My passion lies in building robust and scalable solutions, consistently delivering top-notch, scalable, and maintainable code.
-- 🛠️ My tech stack includes Node, Express, Python, Django, MongoDB, and PostgreSQL. These tools enable me to create efficient and reliable applications.
+- 💼 I am a dedicated and self-driven software engineer with a strong background in backend development. My enthusiasm lies in constructing resilient and scalable solutions, consistently delivering high-quality, scalable, and maintainable code.
+- 🛠️ Specializing in a versatile tech stack that includes Node.js, Express.js, Python, Django, MongoDB, and PostgreSQL, I excel in Restful API design, database architecture, adept problem-solving, and proficient debugging skills. With these tools in my arsenal, I engineer efficient and reliable applications, ensuring seamless user experiences.
 - 🦾 I am continuously enhancing my skills in backend, striving for excellence in every aspect.
 - 🌱 Currently, I am mastering the MERN Stack, further expanding my proficiency in modern web development technologies.
 - 🤔 Exploring about clean architecture, Microservices, System Design, DSA.

@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#21](https://github.com/hossainchisty/LeafLine-Server/issues/21) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
-2. 🎉 Merged PR [#9](https://github.com/hossainchisty/LeafLine-Client/pull/9) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-3. 💪 Opened PR [#9](https://github.com/hossainchisty/LeafLine-Client/pull/9) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-4. ❗ Opened issue [#20](https://github.com/hossainchisty/LeafLine-Server/issues/20) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
-5. ❗ Opened issue [#19](https://github.com/hossainchisty/LeafLine-Server/issues/19) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+1. 🔒 Closed issue [#5192](https://github.com/expressjs/express/issues/5192) in [expressjs/express](https://github.com/expressjs/express)
+2. ❗ Opened issue [#21](https://github.com/hossainchisty/LeafLine-Server/issues/21) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+3. 🎉 Merged PR [#9](https://github.com/hossainchisty/LeafLine-Client/pull/9) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+4. 💪 Opened PR [#9](https://github.com/hossainchisty/LeafLine-Client/pull/9) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+5. ❗ Opened issue [#20](https://github.com/hossainchisty/LeafLine-Server/issues/20) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

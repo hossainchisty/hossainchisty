@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#10](https://github.com/hossainchisty/LeafLine-Client/issues/10) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-2. ❗ Opened issue [#1](https://github.com/hossainchisty/LeafLine-Admin/issues/1) in [hossainchisty/LeafLine-Admin](https://github.com/hossainchisty/LeafLine-Admin)
-3. 🗣 Commented on [#21](https://github.com/hossainchisty/LeafLine-Server/issues/21#issuecomment-1762983316) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
-4. 🔒 Closed issue [#40](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/40) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-5. 🎉 Merged PR [#41](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/41) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+1. 🗣 Commented on [#21](https://github.com/hossainchisty/LeafLine-Server/issues/21#issuecomment-1763334626) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+2. 🗣 Commented on [#10](https://github.com/hossainchisty/LeafLine-Client/issues/10#issuecomment-1763334170) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+3. 🗣 Commented on [#10](https://github.com/hossainchisty/LeafLine-Client/issues/10#issuecomment-1763333791) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+4. ❗ Opened issue [#10](https://github.com/hossainchisty/LeafLine-Client/issues/10) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+5. ❗ Opened issue [#1](https://github.com/hossainchisty/LeafLine-Admin/issues/1) in [hossainchisty/LeafLine-Admin](https://github.com/hossainchisty/LeafLine-Admin)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

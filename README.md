@@ -22,7 +22,7 @@
 - Automating development workflows and deployment pipelines
 
 
-### My favorite projects 💻
+### 💻 My favorite projects
 
 <!-- Project start -->
 <table>

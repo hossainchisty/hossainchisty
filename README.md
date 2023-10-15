@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#21](https://github.com/hossainchisty/LeafLine-Server/issues/21#issuecomment-1763334626) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
-2. 🗣 Commented on [#10](https://github.com/hossainchisty/LeafLine-Client/issues/10#issuecomment-1763334170) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-3. 🗣 Commented on [#10](https://github.com/hossainchisty/LeafLine-Client/issues/10#issuecomment-1763333791) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-4. ❗ Opened issue [#10](https://github.com/hossainchisty/LeafLine-Client/issues/10) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-5. ❗ Opened issue [#1](https://github.com/hossainchisty/LeafLine-Admin/issues/1) in [hossainchisty/LeafLine-Admin](https://github.com/hossainchisty/LeafLine-Admin)
+1. 🎉 Merged PR [#22](https://github.com/hossainchisty/LeafLine-Server/pull/22) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+2. 💪 Opened PR [#22](https://github.com/hossainchisty/LeafLine-Server/pull/22) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
+3. ❗ Opened issue [#12](https://github.com/hossainchisty/LeafLine-Client/issues/12) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+4. ❗ Opened issue [#11](https://github.com/hossainchisty/LeafLine-Client/issues/11) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+5. 🗣 Commented on [#21](https://github.com/hossainchisty/LeafLine-Server/issues/21#issuecomment-1763334626) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

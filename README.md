@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#18](https://github.com/hossainchisty/LeafLine-Client/pull/18#issuecomment-1765972316) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-2. 🗣 Commented on [#6](https://github.com/rakibul-islam-raju/CoachSync/pull/6#issuecomment-1764777972) in [rakibul-islam-raju/CoachSync](https://github.com/rakibul-islam-raju/CoachSync)
-3. 💪 Opened PR [#6](https://github.com/rakibul-islam-raju/CoachSync/pull/6) in [rakibul-islam-raju/CoachSync](https://github.com/rakibul-islam-raju/CoachSync)
-4. 🗣 Commented on [#4](https://github.com/rakibul-islam-raju/CoachSync/issues/4#issuecomment-1764517284) in [rakibul-islam-raju/CoachSync](https://github.com/rakibul-islam-raju/CoachSync)
-5. 🗣 Commented on [#17](https://github.com/hossainchisty/LeafLine-Client/issues/17#issuecomment-1764494939) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+1. 🎉 Merged PR [#20](https://github.com/hossainchisty/LeafLine-Client/pull/20) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+2. 💪 Opened PR [#20](https://github.com/hossainchisty/LeafLine-Client/pull/20) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+3. 🗣 Commented on [#18](https://github.com/hossainchisty/LeafLine-Client/pull/18#issuecomment-1766456299) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+4. 🎉 Merged PR [#19](https://github.com/hossainchisty/LeafLine-Client/pull/19) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+5. 💪 Opened PR [#19](https://github.com/hossainchisty/LeafLine-Client/pull/19) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

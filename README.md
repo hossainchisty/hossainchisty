@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#18](https://github.com/hossainchisty/LeafLine-Client/pull/18#issuecomment-1766623466) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-2. 🎉 Merged PR [#21](https://github.com/hossainchisty/LeafLine-Client/pull/21) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-3. 💪 Opened PR [#21](https://github.com/hossainchisty/LeafLine-Client/pull/21) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-4. 🎉 Merged PR [#20](https://github.com/hossainchisty/LeafLine-Client/pull/20) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-5. 💪 Opened PR [#20](https://github.com/hossainchisty/LeafLine-Client/pull/20) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+1. ❗ Opened issue [#22](https://github.com/hossainchisty/LeafLine-Client/issues/22) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+2. 🔒 Closed issue [#12](https://github.com/hossainchisty/LeafLine-Client/issues/12) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+3. 🎉 Merged PR [#18](https://github.com/hossainchisty/LeafLine-Client/pull/18) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+4. 🗣 Commented on [#18](https://github.com/hossainchisty/LeafLine-Client/pull/18#issuecomment-1767688990) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+5. 🗣 Commented on [#18](https://github.com/hossainchisty/LeafLine-Client/pull/18#issuecomment-1766623466) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

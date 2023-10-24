@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#15](https://github.com/hossainchisty/Photo-Album-App/pull/15) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
-2. 🎉 Merged PR [#16](https://github.com/hossainchisty/Photo-Album-App/pull/16) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
-3. 🎉 Merged PR [#43](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/43) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-4. 💪 Opened PR [#43](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/43) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-5. 🎉 Merged PR [#42](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/42) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+1. 🔒 Closed issue [#44](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/44) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+2. 🗣 Commented on [#44](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/44#issuecomment-1777168053) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+3. 🎉 Merged PR [#15](https://github.com/hossainchisty/Photo-Album-App/pull/15) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
+4. 🎉 Merged PR [#16](https://github.com/hossainchisty/Photo-Album-App/pull/16) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
+5. 🎉 Merged PR [#43](https://github.com/hossainchisty/Freshdesk-ERP-Platform/pull/43) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

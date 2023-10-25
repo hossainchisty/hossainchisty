@@ -2,12 +2,10 @@
 
 <!-- ?Note: I kindly request that you refrain from blindly copying the content of my readme file. I would like to ensure that the content remains original and tailored to my specific needs. -->
 
-- 💼 I am a dedicated and self-driven software engineer with a strong background in backend development. My enthusiasm lies in constructing resilient and scalable solutions, consistently delivering high-quality, scalable, and maintainable code.
-- 🛠️ Specializing in a versatile tech stack that includes Node.js, Express.js, Python, Django, MongoDB, and PostgreSQL, I excel in Restful API design, database architecture, adept problem-solving, and proficient debugging skills. With these tools in my arsenal, I engineer efficient and reliable applications, ensuring seamless user experiences.
-- 🦾 I am continuously enhancing my skills in backend, striving for excellence in every aspect.
-- 🌱 Currently, I am mastering the Backend, further expanding my proficiency in modern web development technologies.
+- 💼 I am a highly motivated software engineer specializing in backend development. Currently, **I'm open to work and employment opportunities(remote)**.
+- 🚀 Proficient in the backend tech stack, encompassing JavaScript/Node.js, Express.js, Python/Django, DRF, Redis, and expertise in both NoSQL and RDBMS databases.
+- 🌱 I'm continuously expanding my knowledge and skills, as I firmly believe that every day presents valuable learning opportunities.
 - 🤔 Exploring about clean architecture, Microservices, System Design, DSA.
-- 👀 I have a keen interest in both Backend development and DevOps practices.
 - 🔗 Discover my work and connect with me at https://chisty.netlify.app. Let's discuss exciting possibilities!
 - ⚡ Fun fact: Apart from coding, I find joy in capturing breathtaking moments through photography. Check out my contributions on [Unsplash](https://unsplash.com/@hossainchisty) to glimpse my artistic side.
 
@@ -70,7 +68,7 @@
     <td><a href="https://github.com/hossainchisty/Freshdesk-ERP-Platform" target="_blank">Freshdesk ERP Platform</a>
     </td>
     <td>Freshdesk Is Smart ERP Software Solution To Manage Your Business. It has also the Admin dashboard.<br> Technology : Python, Django, DRF,
-      PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> <b>Highlights:</b> 130+ stars and 60+ forks 
+      PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> <b>Highlights:</b> 150+ stars and 60+ forks 
     </td>
   <tr>
   <!-- Freshdesk Product End -->
@@ -104,19 +102,6 @@
       </td>
     </tr> -->
   <!-- Hospital Management Software Product End -->
-  
- <!-- Abba Clan Start -->
-   <!-- <tr>
-      <td><a href="http://abbaclan.herokuapp.com" target="_blank">Abba Clan</a></td>
-      <td> Project : Abba Clan 
-        <br> Role : Backend Developer
-        <br> Description : Abba's Clan is a Writers and Readers Platform for writing and sharing short stories With Your
-        Loved Ones.
-        <br> Technology : Python, Django, Django Rest Framework, React.
-      </td>
-  </tr> -->
-  <!-- Abba Clan End -->
-
   </tbody>
 </table>
 <!-- Project end -->

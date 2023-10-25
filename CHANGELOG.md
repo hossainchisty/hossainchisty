@@ -1,3 +1,12 @@
+# [2.22.0](https://github.com/hossainchisty/hossainchisty/compare/v2.21.0...v2.22.0) (2023-10-25)
+
+
+### Features
+
+* Update Skill Icon ([b15ff82](https://github.com/hossainchisty/hossainchisty/commit/b15ff82745ec384e82c4b73cfa9987d51119de68))
+
+
+
 # [2.21.0](https://github.com/hossainchisty/hossainchisty/compare/v2.20.0...v2.21.0) (2023-09-13)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added Productivity Stats ([0b969f3](https://github.com/hossainchisty/hossainchisty/commit/0b969f3a6a971dde06cefd9fdca023a7d6c5bdcf))
-
-
-
-# [2.17.0](https://github.com/hossainchisty/hossainchisty/compare/v2.16.1...v2.17.0) (2023-07-22)
-
-
-### Features
-
-* Added github trophy ([951369c](https://github.com/hossainchisty/hossainchisty/commit/951369c690046ba2625df1c02bed77d8ecd1ea10))
 
 
 

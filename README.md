@@ -147,11 +147,13 @@
   </summary>
 
   <br>
-
 Greetings! I'm an enthusiastic software engineer with a deep-rooted passion for backend development. My unwavering dedication to constant learning empowers me to enhance my skill set, ultimately enabling me to craft exceptional software solutions.
 
 I specialize in building complex web applications using cutting-edge technologies like  JavaScript, TypeScript, Node.js, Express, MongoDB, React. My expertise allows me to create scalable, robust, and efficient systems that meet client and user needs. I'm always eager to learn and grow, staying updated with industry trends and best practices. I enjoy collaborating with developers and stakeholders to solve real-world problems with innovative solutions.
   <br>
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hossainchisty&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/hossainchisty)
 
 #### Github Stats
 

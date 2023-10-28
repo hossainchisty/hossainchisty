@@ -1,3 +1,12 @@
+# [2.24.0](https://github.com/hossainchisty/hossainchisty/compare/v2.23.0...v2.24.0) (2023-10-28)
+
+
+### Features
+
+* Added new project ([8ea5378](https://github.com/hossainchisty/hossainchisty/commit/8ea5378248fcd2a5b83f5ba50d112ba8a61283a0))
+
+
+
 # [2.23.0](https://github.com/hossainchisty/hossainchisty/compare/v2.22.0...v2.23.0) (2023-10-28)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added dev skills modern icon ([c697b41](https://github.com/hossainchisty/hossainchisty/commit/c697b4136cc6ffac8af144dc3b132d0ea822df84))
-
-
-
-# [2.19.0](https://github.com/hossainchisty/hossainchisty/compare/v2.18.0...v2.19.0) (2023-07-22)
-
-
-### Features
-
-* Added top language ([727bf54](https://github.com/hossainchisty/hossainchisty/commit/727bf540bac46374e5a1b6f872d9856208f06312))
 
 
 

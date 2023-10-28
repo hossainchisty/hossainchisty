@@ -39,6 +39,14 @@
       </td>
     <tr>
     <!-- LeafLine End -->
+    <!-- LeafLine Admin Start -->
+    <tr>
+      <td><a href="https://leafline-admin.vercel.app/" target="_blank">Inventory for LeafLine</a>
+      </td>
+      <td>Empower administrators to effortlessly access store statistics, seamlessly add new books with essential details efficiently update existing book information and stock management, and seamlessly remove books from the store inventory.<br> Technology :  React, RTK Query, Node, Express, MongoDB, Apex Charts. <br> 
+      </td>
+    <tr>
+    <!-- LeafLine Admin End -->
     <!-- Multi vendor eCommerce Platform Start -->
     <tr>
       <td><a href="https://github.com/hossainchisty/eCommerce-Backend-API" target="_blank">eCommerce Platform</a>

@@ -1,3 +1,12 @@
+# [2.23.0](https://github.com/hossainchisty/hossainchisty/compare/v2.22.0...v2.23.0) (2023-10-28)
+
+
+### Features
+
+* Added WidgetBox ([df46b85](https://github.com/hossainchisty/hossainchisty/commit/df46b858f57941a9253c139535cf44d69eebfb44))
+
+
+
 # [2.22.0](https://github.com/hossainchisty/hossainchisty/compare/v2.21.0...v2.22.0) (2023-10-25)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added top language ([727bf54](https://github.com/hossainchisty/hossainchisty/commit/727bf540bac46374e5a1b6f872d9856208f06312))
-
-
-
-# [2.18.0](https://github.com/hossainchisty/hossainchisty/compare/v2.17.0...v2.18.0) (2023-07-22)
-
-
-### Features
-
-* Added Productivity Stats ([0b969f3](https://github.com/hossainchisty/hossainchisty/commit/0b969f3a6a971dde06cefd9fdca023a7d6c5bdcf))
 
 
 

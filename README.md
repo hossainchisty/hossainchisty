@@ -112,11 +112,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HASHNODE:START -->
+- [Reduce Response Times and Improve API Performance with Redis](https://hossainchisty.hashnode.dev/reduce-response-times-and-improve-api-performance-with-redis)
 - [Getting Started with Docker Networking: Essential Concepts for  DevOps Engineers](https://hossainchisty.hashnode.dev/getting-started-with-docker-networking-essential-concepts-for-devops-engineers)
 - [A Step-by-Step Guide to Building Standard API](https://hossainchisty.hashnode.dev/a-step-by-step-guide-to-building-standard-api)
 - [Boost Your API&#39;s Performance: 5 Expert Tricks You Need to Try](https://hossainchisty.hashnode.dev/boost-your-apis-performance-5-expert-tricks-you-need-to-try)
 - [Is Your Node.js Backend at Risk? Discover the Essential Security Checklist!](https://hossainchisty.hashnode.dev/is-your-nodejs-backend-at-risk-discover-the-essential-security-checklist)
-- [Unlocking Flexibility and Maintainability with Dependency Injection in JavaScript](https://hossainchisty.hashnode.dev/unlocking-flexibility-and-maintainability-with-dependency-injection-in-javascript)
 <!-- HASHNODE:END -->
 
 ### ⚡Recent Activity

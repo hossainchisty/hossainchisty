@@ -131,11 +131,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#18](https://github.com/hossainchisty/SME-Inventory-Management/pull/18) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-2. ❌ Closed PR [#17](https://github.com/hossainchisty/SME-Inventory-Management/pull/17) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
-3. 🔒 Closed issue [#44](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/44) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-4. 🗣 Commented on [#44](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/44#issuecomment-1777168053) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
-5. 🎉 Merged PR [#15](https://github.com/hossainchisty/Photo-Album-App/pull/15) in [hossainchisty/Photo-Album-App](https://github.com/hossainchisty/Photo-Album-App)
+1. 🎉 Merged PR [#24](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/24) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+2. ❌ Closed PR [#18](https://github.com/hossainchisty/SME-Inventory-Management/pull/18) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
+3. ❌ Closed PR [#17](https://github.com/hossainchisty/SME-Inventory-Management/pull/17) in [hossainchisty/SME-Inventory-Management](https://github.com/hossainchisty/SME-Inventory-Management)
+4. 🔒 Closed issue [#44](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/44) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
+5. 🗣 Commented on [#44](https://github.com/hossainchisty/Freshdesk-ERP-Platform/issues/44#issuecomment-1777168053) in [hossainchisty/Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

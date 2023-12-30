@@ -1,3 +1,12 @@
+# [2.25.0](https://github.com/hossainchisty/hossainchisty/compare/v2.24.0...v2.25.0) (2023-12-30)
+
+
+### Features
+
+* Update README.md ([2ae1555](https://github.com/hossainchisty/hossainchisty/commit/2ae1555698623774c4e9b2b96184d8d78c019d09))
+
+
+
 # [2.24.0](https://github.com/hossainchisty/hossainchisty/compare/v2.23.0...v2.24.0) (2023-10-28)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added new project and added live links ([ee8b23b](https://github.com/hossainchisty/hossainchisty/commit/ee8b23bbc9960e37a46c5c1ad475edabd38c4c2a))
-
-
-
-# [2.20.0](https://github.com/hossainchisty/hossainchisty/compare/v2.19.0...v2.20.0) (2023-08-25)
-
-
-### Features
-
-* Added dev skills modern icon ([c697b41](https://github.com/hossainchisty/hossainchisty/commit/c697b4136cc6ffac8af144dc3b132d0ea822df84))
 
 
 

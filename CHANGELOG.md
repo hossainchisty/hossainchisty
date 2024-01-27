@@ -1,3 +1,12 @@
+# [2.26.0](https://github.com/hossainchisty/hossainchisty/compare/v2.25.0...v2.26.0) (2024-01-27)
+
+
+### Features
+
+* Create gitartwork.yml ([3807da6](https://github.com/hossainchisty/hossainchisty/commit/3807da6476f524c8fd99b84b0f2c77d26902ccd8))
+
+
+
 # [2.25.0](https://github.com/hossainchisty/hossainchisty/compare/v2.24.0...v2.25.0) (2023-12-30)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Update Skill Icon ([b15ff82](https://github.com/hossainchisty/hossainchisty/commit/b15ff82745ec384e82c4b73cfa9987d51119de68))
-
-
-
-# [2.21.0](https://github.com/hossainchisty/hossainchisty/compare/v2.20.0...v2.21.0) (2023-09-13)
-
-
-### Features
-
-* Added new project and added live links ([ee8b23b](https://github.com/hossainchisty/hossainchisty/commit/ee8b23bbc9960e37a46c5c1ad475edabd38c4c2a))
 
 
 

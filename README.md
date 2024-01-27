@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Backend Developer](gitartwork.svg)
+![Chisty](gitartwork.svg)
 
 </div>
 

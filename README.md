@@ -16,7 +16,7 @@
 - ⚡ Fun fact: Apart from coding, I find joy in capturing breathtaking moments through photography. Check out my contributions on [Unsplash](https://unsplash.com/@hossainchisty) to glimpse my artistic side.
 
 ### 💪 Skills & Technologies
-![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,react,nextjs,prisma,mongodb,sqlite,postgresql,redis,graphql,jest,docker,kubernetes,githubactions)
+![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,react,nextjs,mongodb,sqlite,postgresql,redis,graphql,jest,docker,kubernetes,githubactions)
 
 ### 🧐 Area of Interest
 

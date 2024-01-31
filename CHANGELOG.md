@@ -1,3 +1,12 @@
+# [2.27.0](https://github.com/hossainchisty/hossainchisty/compare/v2.26.0...v2.27.0) (2024-01-31)
+
+
+### Features
+
+* Added top open source contributor in bangladesh ([ebad7d9](https://github.com/hossainchisty/hossainchisty/commit/ebad7d943cf5fd5660457267f73e28401dd69fa5))
+
+
+
 # [2.26.0](https://github.com/hossainchisty/hossainchisty/compare/v2.25.0...v2.26.0) (2024-01-27)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Added WidgetBox ([df46b85](https://github.com/hossainchisty/hossainchisty/commit/df46b858f57941a9253c139535cf44d69eebfb44))
-
-
-
-# [2.22.0](https://github.com/hossainchisty/hossainchisty/compare/v2.21.0...v2.22.0) (2023-10-25)
-
-
-### Features
-
-* Update Skill Icon ([b15ff82](https://github.com/hossainchisty/hossainchisty/commit/b15ff82745ec384e82c4b73cfa9987d51119de68))
 
 
 

@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#34](https://github.com/hossainchisty/LeafLine-Server/pull/34) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
-2. 💪 Opened PR [#34](https://github.com/hossainchisty/LeafLine-Server/pull/34) in [hossainchisty/LeafLine-Server](https://github.com/hossainchisty/LeafLine-Server)
-3. 🎉 Merged PR [#25](https://github.com/hossainchisty/LeafLine-Client/pull/25) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-4. 🎉 Merged PR [#26](https://github.com/hossainchisty/LeafLine-Client/pull/26) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
-5. 💪 Opened PR [#26](https://github.com/hossainchisty/LeafLine-Client/pull/26) in [hossainchisty/LeafLine-Client](https://github.com/hossainchisty/LeafLine-Client)
+1. ❌ Closed PR [#5](https://github.com/hossainchisty/FastAPI-RESTful-APIs/pull/5) in [hossainchisty/FastAPI-RESTful-APIs](https://github.com/hossainchisty/FastAPI-RESTful-APIs)
+2. ❌ Closed PR [#4](https://github.com/hossainchisty/FastAPI-RESTful-APIs/pull/4) in [hossainchisty/FastAPI-RESTful-APIs](https://github.com/hossainchisty/FastAPI-RESTful-APIs)
+3. ❌ Closed PR [#31](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/31) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+4. ❌ Closed PR [#30](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/30) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
+5. ❌ Closed PR [#28](https://github.com/hossainchisty/Multi-Vendor-eCommerce/pull/28) in [hossainchisty/Multi-Vendor-eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

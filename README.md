@@ -74,7 +74,7 @@
   <tr>
     <td><a href="https://github.com/hossainchisty/Foodie-Real-Estate-Services" target="_blank">Foodie Real Estate Services</a></td>
     <td>Restaurant reservations are an arrangement guests make in advance to confirm a table for their party at a specified time. Promo code can be use for discounts.
-      <br> Technology : NodeJS, Express, MongoDB, Docker, Github Actions, CI/CD.
+      <br> Technology: NodeJS, Express, MongoDB, Docker, Github Actions, CI/CD.
     </td>
   </tr>
   <!-- Foodie Real Estate Services End -->
@@ -82,7 +82,7 @@
   <tr>
     <td><a href="https://github.com/hossainchisty/FreshGerium-ERP-Platform" target="_blank">FreshGerium ERP Platform</a>
     </td>
-    <td>FreshGerium Is Smart Software as a Service (SaaS) Commercial Real Estate Customer Relationship Management (CRM) / ERP system built on the Django framework. It has also the Admin dashboard.<br> Technology: Python, Django, DRF,
+    <td>FreshGerium is a cutting-edge SaaS-based solution tailored for SMEs, designed to be your all-in-one platform for seamless business management. Our mission is simple to simplify and streamline your business operations, so you can focus on what truly matters - growing your business. With FreshGerium, managing your business has never been easier!<br> Technology: Python, Django, DRF,
       PostgreSQL, Redis, Celery, Cloudinary, Sentry-sdk, Docker. <br> <b>Highlights:</b> 150+ stars and 70+ forks 
     </td>
   <tr>

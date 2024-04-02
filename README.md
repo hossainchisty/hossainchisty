@@ -14,7 +14,7 @@
 - 🤔 Exploring about clean architecture, Microservices, System Design, DSA.
 - 🔗 Discover my work and connect with me at https://chisty.netlify.app. Let's discuss exciting possibilities!
 - ⚡ Fun fact: Apart from coding, I find joy in capturing breathtaking moments through photography. Check out my contributions on [Unsplash](https://unsplash.com/@hossainchisty) to glimpse my artistic side.
-- 🏆 I rank within the top 18 out of 100 open source contributors **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
+- 🏆 I rank within the top 12 out of 100 open source contributors **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
 
 ### 💪 Skills & Technologies
 ![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,react,nextjs,mongodb,sqlite,postgresql,redis,graphql,jest,docker,kubernetes,githubactions)

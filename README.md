@@ -17,7 +17,7 @@
 - 🏆 I rank within the top 12 out of 100 open source contributors **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
 
 ### 💪 Skills & Technologies
-![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,react,nextjs,mongodb,sqlite,postgresql,redis,graphql,jest,docker,kubernetes,githubactions)
+![](https://skillicons.dev/icons?i=js,ts,nodejs,express,py,django,fastapi,react,nextjs,mongodb,sqlite,postgresql,redis,graphql,jest,docker,kubernetes,githubactions)
 
 ### 🧐 Area of Interest
 

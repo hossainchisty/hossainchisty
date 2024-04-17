@@ -9,7 +9,7 @@
 <!-- ?Note: I kindly request that you refrain from blindly copying the content of my readme file. I would like to ensure that the content remains original and tailored to my specific needs. -->
 
 - 💼 I am a highly motivated software engineer specializing in backend development. Currently, **I'm open to work and employment opportunities(remote)**.
-- 🚀 Proficient in the backend tech stack, encompassing JavaScript/Node.js, Express.js, Python/Django, DRF, Redis, and expertise in both NoSQL and RDBMS databases.
+- 🚀 Proficient in the backend tech stack, encompassing JavaScript/Node.js, Express.js, Python/Django, Django REST Framework, Redis, and expertise in both NoSQL and RDBMS databases.
 - 🌱 I'm continuously expanding my knowledge and skills, as I firmly believe that every day presents valuable learning opportunities.
 - 🤔 Exploring about clean architecture, Microservices, System Design, DSA.
 - 🔗 Discover my work and connect with me at https://chisty.netlify.app. Let's discuss exciting possibilities!

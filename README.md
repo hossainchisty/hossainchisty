@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Chisty](gitartwork.svg)
+<!--  ![Chisty](gitartwork.svg)  -->
 
 </div>
 

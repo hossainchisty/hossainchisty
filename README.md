@@ -138,11 +138,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/7) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
-2. ❌ Closed PR [#5](https://github.com/hossainchisty/Zahrat-Al-Bustan-Server/pull/5) in [hossainchisty/Zahrat-Al-Bustan-Server](https://github.com/hossainchisty/Zahrat-Al-Bustan-Server)
-3. ❌ Closed PR [#4](https://github.com/hossainchisty/Zahrat-Al-Bustan-Server/pull/4) in [hossainchisty/Zahrat-Al-Bustan-Server](https://github.com/hossainchisty/Zahrat-Al-Bustan-Server)
-4. 🔒 Closed issue [#45](https://github.com/hossainchisty/FreshGerium-ERP-Platform/issues/45) in [hossainchisty/FreshGerium-ERP-Platform](https://github.com/hossainchisty/FreshGerium-ERP-Platform)
-5. 🔒 Closed issue [#46](https://github.com/hossainchisty/FreshGerium-ERP-Platform/issues/46) in [hossainchisty/FreshGerium-ERP-Platform](https://github.com/hossainchisty/FreshGerium-ERP-Platform)
+1. ❌ Closed PR [#13](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/13) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+2. ❌ Closed PR [#12](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/12) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+3. ❌ Closed PR [#11](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/11) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+4. ❌ Closed PR [#10](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/10) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+5. ❌ Closed PR [#6](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/6) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

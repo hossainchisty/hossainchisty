@@ -9,7 +9,7 @@
 <!-- ?Note: I kindly request that you refrain from blindly copying the content of my readme file. I would like to ensure that the content remains original and tailored to my specific needs. -->
 
 - 💼 I am a highly motivated software engineer specializing in backend development. Currently, **I'm currently exploring work and employment opportunities, particularly in remote settings.**
-- 🚀 Proficient in the backend tech stack, encompassing JavaScript, Node, Express, Nest, Python, Django, Django REST Framework and expertise in both NoSQL and RDBMS databases.
+- 🚀 Proficient in backend technologies, including Python, Django, Django REST Framework and JavaScript, Node.js, Express, with expertise in both NoSQL and relational databases (RDBMS) as well as AWS services.
 - 🌱 I'm continuously expanding my knowledge and skills, as I firmly believe that every day presents valuable learning opportunities.
 - 🎢 Among the top 100 open source **[GitHub contributors from Bangladesh](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/bangladesh.md)**.
 - 🤔 Exploring about clean architecture, Microservices, System Design, DSA.

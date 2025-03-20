@@ -44,7 +44,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#13](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/13) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+1. 🎉 Merged PR [#14](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/14) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
 2. ❌ Closed PR [#12](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/12) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
 3. ❌ Closed PR [#11](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/11) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
 4. ❌ Closed PR [#10](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/10) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)

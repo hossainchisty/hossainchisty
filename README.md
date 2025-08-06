@@ -88,10 +88,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#17](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/17) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
-2. ❌ Closed PR [#16](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/16) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
-3. ❌ Closed PR [#15](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/15) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
-4. ❌ Closed PR [#10](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/10) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+1. ❌ Closed PR [#18](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/18) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+2. ❌ Closed PR [#17](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/17) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+3. ❌ Closed PR [#16](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/16) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+4. ❌ Closed PR [#15](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/15) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
 5. ❌ Closed PR [#6](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/6) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in

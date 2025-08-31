@@ -87,10 +87,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/2) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-2. 💪 Opened PR [#2](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/2) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-3. ❌ Closed PR [#18](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/18) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
-4. ❌ Closed PR [#15](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/15) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
+1. ❌ Closed PR [#3](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/3) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
+2. ❌ Closed PR [#2](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/2) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
+3. 💪 Opened PR [#2](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/2) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
+4. ❌ Closed PR [#18](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/18) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
 5. ❌ Closed PR [#6](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs/pull/6) in [hossainchisty/FastAPI-CRUD-RESTful-APIs](https://github.com/hossainchisty/FastAPI-CRUD-RESTful-APIs)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in

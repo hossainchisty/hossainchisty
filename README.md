@@ -87,11 +87,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/6#issuecomment-3248359103) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-2. 💪 Opened PR [#7](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/7) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-3. ❗ Opened issue [#5](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/issues/5) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-4. ❗ Opened issue [#4](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/issues/4) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-5. ❌ Closed PR [#3](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/3) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
+1. 💪 Opened PR [#8](undefined) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
+2. ❌ Assigned PR [#8](undefined) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
+3. 🗣 Commented on [#6](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/6#issuecomment-3248359103) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
+4. 💪 Opened PR [#7](undefined) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
+5.  Assigned issue [#5](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/issues/5) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)
 4. 🎉 Merged PR [#6](https://github.com/hossainchisty/Health-Care-Django/pull/6) in
    [hossainchisty/Health-Care-Django](https://github.com/hossainchisty/Health-Care-Django)

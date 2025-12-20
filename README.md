@@ -137,13 +137,6 @@ I specialize in building complex web applications using cutting-edge technologie
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hossainchisty&theme=midnight_purple)
 
 
-#### Profile Visits
-
-  <p align="left">
-    <img width="230px" src="https://profile-counter.glitch.me/hossainchisty/count.svg" />
-  </p>
-
-
 </details>
 <!-- Summary end -->
 

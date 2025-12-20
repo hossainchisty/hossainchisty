@@ -126,9 +126,6 @@ I specialize in building complex web applications using cutting-edge technologie
       src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=midnight-purple&line_height=25&hide=stars">
   </p>
 
-#### Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=hossainchisty&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 #### Productivity Stats
 
 

@@ -80,7 +80,7 @@ I love:
 - Build **boring, reliable backends** that scale
 - Prefer **clarity over cleverness**
 - Ship fast, then iterate responsibly
-- Measure performance, don’t guess 📊
+- Measure performance, don’t guess 
 - AI is a **tool**, not magic
 
 ---

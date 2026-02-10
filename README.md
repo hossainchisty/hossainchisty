@@ -45,29 +45,14 @@ I love:
 ## 🚀 What I’m Building Right Now
 
 
-- 🎨 **[OrbStudio AI](https://github.com/hossainchisty/OrbStudio-AI)**  
-  *AI Creative Director* — product photography, fashion visuals, ads & generative workflows
-
-- 🎓 **[MeetShikkha AI](https://github.com/hossainchisty/MeetShikkha-AI)**  
-  Bangla-first AI academic assistant aligned with the national curriculum
-
-- 🌍 **[Nomadly](https://github.com/hossainchisty/Nomadly-Frontend)**  
-  Connecting remote workers with work-friendly stays
-
-- 🦞 **[FreshGerium](https://github.com/OrbGenix/FreshGerium-ERP-Platform)**  
-  Smart ERP for modern business operations
-
-- 🤖 **[AI Customer Support](https://github.com/hossainchisty/Django-AI-Customer-Support)**  
-  RAG-based customer support & knowledge retrieval system
-
-- 🏡 **[EveryGreen Real Estate](https://github.com/hossainchisty/EveryGreen-Real-Estate)**  
-  Scalable real-estate marketplace platform
-
-- 🧘 **[ZenSauna Booking](https://github.com/hossainchisty/ZenSauna-Booking-Platform)**  
-  Wellness & booking infrastructure
-
-- 🚴 **[Go Velo](https://github.com/hossainchisty/Go-Velo-Bike-Rental-Platform)**  
-  Sustainable mobility platform
+- 🎨 **[OrbStudio AI](https://github.com/hossainchisty/OrbStudio-AI)** — *AI Creative Director* — product photography, fashion visuals, ads & generative workflows
+- 🎓 **[MeetShikkha AI](https://github.com/hossainchisty/MeetShikkha-AI)** — Bangla-first AI academic assistant aligned with the national curriculum
+- 🌍 **[Nomadly](https://github.com/hossainchisty/Nomadly-Frontend)** — Connecting remote workers with work-friendly stays
+- 🦞 **[FreshGerium](https://github.com/OrbGenix/FreshGerium-ERP-Platform)** — Smart ERP for modern business operations
+- 🤖 **[AI Customer Support](https://github.com/hossainchisty/Django-AI-Customer-Support)** — RAG-based customer support & knowledge retrieval system
+- 🏡 **[EveryGreen Real Estate](https://github.com/hossainchisty/EveryGreen-Real-Estate)** — Scalable real-estate marketplace platform
+- 🧘 **[ZenSauna Booking](https://github.com/hossainchisty/ZenSauna-Booking-Platform)** — Wellness & booking infrastructure
+- 🚴 **[Go Velo](https://github.com/hossainchisty/Go-Velo-Bike-Rental-Platform)** — Sustainable mobility platform
 
 <div align="center">
   <b><a href="https://github.com/hossainchisty?tab=repositories">View All Projects →</a></b>

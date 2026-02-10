@@ -29,16 +29,6 @@ Shipping SaaS, automating workflows, and building Agentic AI systems
   </a>
 </p>
 
-I’m passionate about **building real products that ship, scale, and solve actual problems**.  
-My focus sits at the intersection of **SaaS, AI, backend engineering, and automation** — turning ideas into production-ready systems, not just demos.
-
-I love:
-- Designing **clean backend architectures**
-- Building **AI-powered SaaS** from zero → users
-- Optimizing **APIs, performance, and infra**
-- Automating boring workflows so humans can do creative work ⚙️🚀
-
-
 
 ---
 

@@ -1,50 +1,99 @@
-# Hi, I'm Hossain 👋
+# Hi, I'm Hossain 👋  
+**Full-Stack Developer • SaaS Builder • AI Builder**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hossainchisty/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/hossain_chisty7" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/hossain.chisty/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@thetechtimes" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://hossainchisty.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="https://unsplash.com/@hossainchisty" target="_blank">
-    <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white" alt="Unsplash">
+    <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=unsplash&logoColor=white" />
   </a>
   <a href="mailto:hossain.chisty11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+I’m passionate about **building real products that ship, scale, and solve actual problems**.  
+My focus sits at the intersection of **SaaS, AI, backend engineering, and automation** — turning ideas into production-ready systems, not just demos.
+
+I love:
+- Designing **clean backend architectures**
+- Building **AI-powered SaaS** from zero → users
+- Optimizing **APIs, performance, and infra**
+- Automating boring workflows so humans can do creative work ⚙️🚀
 
 
-## Current Projects
 
-**I’m currently focused on building high-quality SaaS applications and AI-driven solutions.**
+---
 
-- 🎨 **[OrbStudio AI](https://github.com/hossainchisty/OrbStudio-AI)** - AI Creative Director - Your intelligent design companion 
-- 🎓 **[MeetShikkha AI](https://github.com/hossainchisty/MeetShikkha-AI)** - AI Academic Assistant for Mathematics, Physics, Chemistry, Biology, and English 
-- 🌍 **[Nomadly](https://github.com/hossainchisty/Nomadly-Frontend)** - It bridges the gap between travelers seeking work-friendly environments and hosts offering premium accommodations. 
-- 🦞 **[FreshGerium](https://github.com/hossainchisty/FreshGerium)** - Smart ERP solution for business management
-- 🤖 **[AI Customer Support](https://github.com/hossainchisty/Django-AI-Customer-Support)** - RAG-based customer support Q&A system 
-- 🏡 **[EveryGreen Real Estate](https://github.com/hossainchisty/EveryGreen-Real-Estate)** - Modern real estate platform 
-- 🧘 **[ZenSauna Booking](https://github.com/hossainchisty/ZenSauna-Booking-Platform)** - Wellness booking platform
-- 🚴 **[Go Velo](https://github.com/hossainchisty/Go-Velo-Bike-Rental-Platform)** - Sustainable bike rental platform 
+## 🚀 What I’m Building Right Now
 
+
+- 🎨 **[OrbStudio AI](https://github.com/hossainchisty/OrbStudio-AI)**  
+  *AI Creative Director* — product photography, fashion visuals, ads & generative workflows
+
+- 🎓 **[MeetShikkha AI](https://github.com/hossainchisty/MeetShikkha-AI)**  
+  Bangla-first AI academic assistant aligned with the national curriculum
+
+- 🌍 **[Nomadly](https://github.com/hossainchisty/Nomadly-Frontend)**  
+  Connecting remote workers with work-friendly stays
+
+- 🦞 **[FreshGerium](https://github.com/hossainchisty/FreshGerium)**  
+  Smart ERP for modern business operations
+
+- 🤖 **[AI Customer Support](https://github.com/hossainchisty/Django-AI-Customer-Support)**  
+  RAG-based customer support & knowledge retrieval system
+
+- 🏡 **[EveryGreen Real Estate](https://github.com/hossainchisty/EveryGreen-Real-Estate)**  
+  Scalable real-estate marketplace platform
+
+- 🧘 **[ZenSauna Booking](https://github.com/hossainchisty/ZenSauna-Booking-Platform)**  
+  Wellness & booking infrastructure
+
+- 🚴 **[Go Velo](https://github.com/hossainchisty/Go-Velo-Bike-Rental-Platform)**  
+  Sustainable mobility platform
 
 <div align="center">
-  
-  **[View All Projects →](https://github.com/hossainchisty?tab=repositories)**
-  
+  <b><a href="https://github.com/hossainchisty?tab=repositories">View All Projects →</a></b>
 </div>
+
+---
+
+## 🧠 My Engineering Mindset
+
+- Build **boring, reliable backends** that scale
+- Prefer **clarity over cleverness**
+- Ship fast, then iterate responsibly
+- Measure performance, don’t guess 📊
+- AI is a **tool**, not magic
+
+---
+
+## 🛠️ Technologies I Work With
+
+### Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts" />
+
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,postgres,mongodb,mysql,redis,supabase" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+### DevOps & Infra
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,github,postman,ubuntu,vercel" />
 
 ---
 
@@ -58,76 +107,25 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ✍️ Writing & Knowledge Sharing
 
-### 💻 Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts" alt="Python, JavaScript, TypeScript" />
-  </a>
-</p>
+I actively write about **backend engineering, performance, DevOps, and system design**:
 
-### 🌐 Frameworks & Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,react,nextjs,tailwind" alt="Django, Node.js, Express, FastAPI, React, Next.js, Tailwind" />
-  </a>
-</p>
+- [Reduce Response Times with Redis](https://hossainchisty.hashnode.dev/reduce-response-times-and-improve-api-performance-with-redis)
+- [Docker Networking Explained](https://hossainchisty.hashnode.dev/getting-started-with-docker-networking-essential-concepts-for-devops-engineers)
+- [How to Build a Standard API](https://hossainchisty.hashnode.dev/a-step-by-step-guide-to-building-standard-api)
+- [API Performance Tricks](https://hossainchisty.hashnode.dev/boost-your-apis-performance-5-expert-tricks-you-need-to-try)
+- [Node.js Security Checklist](https://hossainchisty.hashnode.dev/is-your-nodejs-backend-at-risk-discover-the-essential-security-checklist)
 
-### 🧰 DevOps & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,ubuntu,postman,aws,vercel,git,github,vscode,supabase" alt="Docker, GitHub Actions, Nginx, Ubuntu, Postman, AWS, Vercel, Git, GitHub, VS Code, Supabase" />
-  </a>
-</p>
-
-### 🧠 Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase" alt="PostgreSQL, MongoDB, MySQL, Redis, Supabase" />
-  </a>
-</p>
+➡️ **[Read more](https://hossainchisty.hashnode.dev/)**
 
 ---
 
-## 🧐 Areas of Interest
+## 🤝 Let’s Build Something Real
 
-- 🤖 **Web Automation**
-- 🔌 **API Design and Development**
-- 🏗️ **Microservice Architecture**
-- ⚙️ **Automating Development Workflows and Deployment Pipelines**
+If you’re building a product and need someone who:
+- understands **systems**
+- cares about **quality**
+- and actually **ships**
 
----
-
-## 📚 Latest Blog Posts
-
-<!-- HASHNODE:START -->
-- [Reduce Response Times and Improve API Performance with Redis](https://hossainchisty.hashnode.dev/reduce-response-times-and-improve-api-performance-with-redis)
-- [Getting Started with Docker Networking: Essential Concepts for DevOps Engineers](https://hossainchisty.hashnode.dev/getting-started-with-docker-networking-essential-concepts-for-devops-engineers)
-- [A Step-by-Step Guide to Building Standard API](https://hossainchisty.hashnode.dev/a-step-by-step-guide-to-building-standard-api)
-- [Boost Your API's Performance: 5 Expert Tricks You Need to Try](https://hossainchisty.hashnode.dev/boost-your-apis-performance-5-expert-tricks-you-need-to-try)
-- [Is Your Node.js Backend at Risk? Discover the Essential Security Checklist!](https://hossainchisty.hashnode.dev/is-your-nodejs-backend-at-risk-discover-the-essential-security-checklist)
-<!-- HASHNODE:END -->
-
-➡️ [Read more on my blog](https://hossainchisty.hashnode.dev/)
-
----
-
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/6#issuecomment-3248359103) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-2. 💪 Opened PR [#7](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/7) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-3. ❗ Opened issue [#5](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/issues/5) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-4. ❗ Opened issue [#4](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/issues/4) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-5. ❌ Closed PR [#3](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/3) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
-<!--END_SECTION:activity-->
-
-
----
-
-## 💼 Let's Collaborate!
-
-If you're looking for assistance with your team and product, I'm here to help! Don't hesitate to get in touch so we can collaborate and create something truly remarkable together. Let's embark on an exciting journey and build an extraordinary outcome!
-
-
+Let’s talk 🚀

@@ -30,21 +30,15 @@
 
 **I’m currently focused on building high-quality SaaS applications and AI-driven solutions.**
 
-- 🌍 **[Nomadly](https://github.com/hossainchisty/Nomadly-Frontend)** - A high-performance, aesthetically pleasing web application tailored for the modern digital nomad. It bridges the gap between travelers seeking work-friendly environments and hosts offering premium accommodations. Built with a focus on speed, responsiveness, and a premium user experience.
-- 🛍️ **[Multi-Vendor eCommerce](https://github.com/hossainchisty/Multi-Vendor-eCommerce)** - Advanced multi-vendor marketplace with RBAC (Django, Python, PostgreSQL)
-- 🎓 **[MeetShikkha AI](https://github.com/hossainchisty/MeetShikkha-AI)** - AI Academic Assistant for Mathematics, Physics, Chemistry, Biology, and English (AI/ML, Python, NLP)
-- 📊 **[SME Inventory](https://github.com/hossainchisty/SME-Inventory-Management)** - Comprehensive inventory management system (Django, DRF, Python)
-- 🎨 **[OrbStudio AI](https://github.com/hossainchisty/OrbStudio-AI)** - AI Creative Director - Your intelligent design companion (TypeScript, Next.js, AI/ML)
-- 🎬 **[Cineflux Studio](https://github.com/hossainchisty/Cineflux-Studio)** - Modern cinema management platform (TypeScript, React)
-- 🏡 **[EveryGreen Real Estate](https://github.com/hossainchisty/EveryGreen-Real-Estate)** - Modern real estate platform (TypeScript, Next.js)
-- 🧘 **[ZenSauna Booking](https://github.com/hossainchisty/ZenSauna-Booking-Platform)** - Wellness booking platform (TypeScript, React)
-- 🚴 **[Go Velo](https://github.com/hossainchisty/Go-Velo-Bike-Rental-Platform)** - Sustainable bike rental platform (TypeScript, React)
-- � **[FreshGerium ERP](https://github.com/hossainchisty/FreshGerium)** - Smart ERP solution for business management (Django, Python)
-- � **[Income & Expense Manager](https://github.com/hossainchisty/Income-Expense-Management)** - Financial tracking and management system (Django, Python)
-- � **[Django REST Starter Kit](https://github.com/hossainchisty/django-rest-starter-kit)** - Production-ready DRF template (Django, DRF)
-- 🤖 **[AI Customer Support](https://github.com/hossainchisty/Django-AI-Customer-Support)** - RAG-based customer support Q&A system (Django, AI Agents)
-- 🏥 **[HealthCare Management](https://github.com/hossainchisty/Health-Care-Django)** - Diagnostic management system (Django, Python)
-- 📸 **[Photo Album](https://github.com/hossainchisty/Photo-Album-App)** - Photo management application (Django, Pillow)
+- 🎨 **[OrbStudio AI](https://github.com/hossainchisty/OrbStudio-AI)** - AI Creative Director - Your intelligent design companion 
+- 🎓 **[MeetShikkha AI](https://github.com/hossainchisty/MeetShikkha-AI)** - AI Academic Assistant for Mathematics, Physics, Chemistry, Biology, and English 
+- 🌍 **[Nomadly](https://github.com/hossainchisty/Nomadly-Frontend)** - It bridges the gap between travelers seeking work-friendly environments and hosts offering premium accommodations. 
+- 🦞 **[FreshGerium](https://github.com/hossainchisty/FreshGerium)** - Smart ERP solution for business management
+- 🤖 **[AI Customer Support](https://github.com/hossainchisty/Django-AI-Customer-Support)** - RAG-based customer support Q&A system 
+- 🏡 **[EveryGreen Real Estate](https://github.com/hossainchisty/EveryGreen-Real-Estate)** - Modern real estate platform 
+- 🧘 **[ZenSauna Booking](https://github.com/hossainchisty/ZenSauna-Booking-Platform)** - Wellness booking platform
+- 🚴 **[Go Velo](https://github.com/hossainchisty/Go-Velo-Bike-Rental-Platform)** - Sustainable bike rental platform 
+
 
 <div align="center">
   

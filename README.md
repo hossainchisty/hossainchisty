@@ -1,6 +1,8 @@
 # Hi, I'm Hossain 👋  
-**Full-Stack Developer • SaaS Builder • AI Builder**  
-SaaS Growth • Bootstrapped Founders • Agentic AI
+**Full-Stack Developer • SaaS Builder • Indie Hacker**  
+
+Shipping SaaS, automating workflows, and building Agentic AI systems
+
 
 
 <p align="left">

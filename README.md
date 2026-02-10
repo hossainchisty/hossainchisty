@@ -54,7 +54,7 @@ I love:
 - 🌍 **[Nomadly](https://github.com/hossainchisty/Nomadly-Frontend)**  
   Connecting remote workers with work-friendly stays
 
-- 🦞 **[FreshGerium](https://github.com/hossainchisty/FreshGerium)**  
+- 🦞 **[FreshGerium](https://github.com/OrbGenix/FreshGerium-ERP-Platform)**  
   Smart ERP for modern business operations
 
 - 🤖 **[AI Customer Support](https://github.com/hossainchisty/Django-AI-Customer-Support)**  

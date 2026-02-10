@@ -26,22 +26,6 @@
 
 
 
----
-
-## About Me
-
-- 💼 **Highly motivated software engineer** specializing in **backend development**
-- 🌍 **Currently exploring remote work opportunities** worldwide
-- 🚀 Proficient in **Python**, **Django**, **Django REST Framework**, **JavaScript**, **Node.js**, **Express.js**
-- 🗄️ Expertise in **NoSQL** and **relational databases (RDBMS)**, plus **AWS services**
-- 🌱 Continuously expanding my knowledge — **every day is a learning opportunity**
-- 🤔 Exploring **Clean Architecture**, **Microservices**, **System Design**, and **DSA**
-- � Enthusiastic about building **AI SaaS products** and the **Indie Hacker** journey
-- �🔗 Portfolio: [chisty.netlify.app](https://chisty.netlify.app)
-- 📸 Photography enthusiast — check out my work on [Unsplash](https://unsplash.com/@hossainchisty)
-
----
-
 ## Current Projects
 
 **I’m currently focused on building high-quality SaaS applications and AI-driven solutions.**
@@ -145,38 +129,6 @@
 5. ❌ Closed PR [#3](https://github.com/Sabbir-hossain1/lamsa-laundry-backend/pull/3) in [Sabbir-hossain1/lamsa-laundry-backend](https://github.com/Sabbir-hossain1/lamsa-laundry-backend)
 <!--END_SECTION:activity-->
 
----
-
-## 📈 GitHub Stats
-
-<details>
-  <summary>📊 Click to view detailed stats</summary>
-  
-  <br>
-  
-  ### About Me
-  
-  Greetings! I'm an enthusiastic software engineer with a deep-rooted passion for backend development. My unwavering dedication to constant learning empowers me to enhance my skill set, ultimately enabling me to craft exceptional software solutions.
-
-  I specialize in building complex web applications using cutting-edge technologies like JavaScript, TypeScript, Node.js, Express, MongoDB, and React. My expertise allows me to create scalable, robust, and efficient systems that meet client and user needs. I'm always eager to learn and grow, staying updated with industry trends and best practices. I enjoy collaborating with developers and stakeholders to solve real-world problems with innovative solutions.
-  
-  <br>
-
-  ### Profile Overview
-  
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hossainchisty&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/hossainchisty)
-
-  ### GitHub Statistics
-
-  <p align="left">
-    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=hossainchisty&show_icons=true&theme=midnight-purple&line_height=25&hide=stars" alt="GitHub Stats">
-  </p>
-
-  ### Productivity Overview
-
-  ![Hossain Chisty's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossainchisty&theme=midnight_purple)
-
-</details>
 
 ---
 

@@ -1,3 +1,12 @@
+# [2.30.0](https://github.com/hossainchisty/hossainchisty/compare/v2.29.0...v2.30.0) (2026-02-10)
+
+
+### Features
+
+* enhance README with a professional summary, detailed project descriptions, engineering mindset, and structured tech stack. ([aaeae45](https://github.com/hossainchisty/hossainchisty/commit/aaeae45f06e96d0790eb12a7fa4eba08dfa67be0))
+
+
+
 # [2.29.0](https://github.com/hossainchisty/hossainchisty/compare/v2.28.0...v2.29.0) (2026-02-10)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * Create gitartwork.yml ([3807da6](https://github.com/hossainchisty/hossainchisty/commit/3807da6476f524c8fd99b84b0f2c77d26902ccd8))
-
-
-
-# [2.25.0](https://github.com/hossainchisty/hossainchisty/compare/v2.24.0...v2.25.0) (2023-12-30)
-
-
-### Features
-
-* Update README.md ([2ae1555](https://github.com/hossainchisty/hossainchisty/commit/2ae1555698623774c4e9b2b96184d8d78c019d09))
 
 
 

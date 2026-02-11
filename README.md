@@ -32,7 +32,7 @@ Shipping SaaS, automating workflows, and building Agentic AI systems
 
 ## 🚀 What I’m Building Right Now
 
-
+- 🧠 **[ChoyAI Studio](https://choyai-studio.onrender.com/)** — *ChoyAI Studio* is a premium, all-in-one AI production suite designed for high-end text generation, image creation, and video production. It features a world-class brand design system, real-time shared chat capabilities, and a seamless internal "Studio" experience.
 - 🎨 **[OrbStudio AI](https://github.com/hossainchisty/OrbStudio-AI)** — *AI Creative Director* — product photography, fashion visuals, ads & generative workflows
 - 🎓 **[MeetShikkha AI](https://github.com/hossainchisty/MeetShikkha-AI)** — Bangla-first AI academic assistant aligned with the national curriculum
 - 🌍 **[Nomadly](https://github.com/hossainchisty/Nomadly-Frontend)** — Connecting remote workers with work-friendly stays

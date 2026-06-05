@@ -32,7 +32,7 @@ Shipping SaaS, automating workflows, and building Agentic AI systems
 
 ## 🚀 What I’m Building Right Now
 
-- 🧠 **[ChoyCraft](https://choycraft.com/)** — *ChoyCraft* is a production-grade AI content workspace that unifies text generation, image creation, video production, and audio synthesis into a single polished interface. It aggregates 50+ state-of-the-art models from 18+ providers (OpenAI, Anthropic, Google DeepMind, xAI, Kuaishou, ElevenLabs, and more) through the WaveSpeed unified API gateway. Built for real workflows — generate, refine, remix, export, and share. Every output persists to your personal library with full metadata, re-downloadable at any time.
+- 🧠 **[ChoyCraft](https://choycraft.com/)** — *ChoyCraft* is a production-grade AI content workspace that unifies text generation, image creation, video production, and audio synthesis into a single polished interface. 
 - 🎨 **[OrbStudio AI](https://orbstudio-ai.vercel.app/)** — *AI Creative Director* product photography, fashion visuals, ads & generative workflows
 - 🎓 **[MeetShikkha AI](https://meetshikkha-ai.vercel.app/)** — Bangla-first AI academic assistant aligned with the national curriculum
 - 🌍 **[Nomadly](https://nomadly-stay.vercel.app/)** — Connecting remote workers with work-friendly stays

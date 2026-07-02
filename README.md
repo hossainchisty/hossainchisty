@@ -32,7 +32,7 @@ Shipping SaaS, automating workflows, and building Agentic AI systems
 
 ## 🚀 What I’m Building Right Now
 
-- 🧠 **[ChoyCraft](https://choycraft.com/)** — *ChoyCraft* An all-in-one AI studio for generating text, images, video, and audio, built for production use rather than quick experiments.
+- 🧠 **[ChoyCraft](https://choycraft.com/)** — An all-in-one AI studio for generating text, images, video, and audio, built for production use rather than quick experiments.
 - 🎨 **[OrbStudio AI](https://orbstudio-ai.vercel.app/)** — *AI Creative Director* product photography, fashion visuals, ads & generative workflows
 - 🎓 **[MeetShikkha AI](https://meetshikkha-ai.vercel.app/)** — Bangla-first AI academic assistant aligned with the national curriculum
 - 🌍 **[Nomadly](https://nomadly-stay.vercel.app/)** — Connecting remote workers with work-friendly stays
